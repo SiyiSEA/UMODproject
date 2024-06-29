@@ -1,0 +1,1384 @@
+,Barcode,Cluster_Number,Cluster_Name,Cluster_Description,Sample,Genotype
+8003,AAACCTGAGTTTCCTT-3,6,CD-PC,CD-PC: collecting duct principal cell,3,WT_3
+8004,AAACGGGAGCTAGTCT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8005,AAACGGGGTACACCGC-3,3,PT,PT: proximal tubule,3,WT_3
+8006,AAACGGGTCTAACTGG-3,3,PT,PT: proximal tubule,3,WT_3
+8007,AAAGATGAGCGACGTA-3,3,PT,PT: proximal tubule,3,WT_3
+8008,AAAGATGAGGAGTACC-3,3,PT,PT: proximal tubule,3,WT_3
+8009,AAAGATGAGGCATGGT-3,10,Fib,Fib: fibroblast,3,WT_3
+8010,AAAGATGAGTGACTCT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8011,AAAGATGCACAACGCC-3,3,PT,PT: proximal tubule,3,WT_3
+8012,AAAGATGGTAACGACG-3,10,Fib,Fib: fibroblast,3,WT_3
+8013,AAAGATGGTTGGTAAA-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8014,AAAGATGTCGTACCGG-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8015,AAAGCAAGTCTCTCTG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8016,AAAGCAATCCACTCCA-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8017,AAAGTAGTCCTCCTAG-3,3,PT,PT: proximal tubule,3,WT_3
+8018,AAAGTAGTCTGCAAGT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8019,AAATGCCGTTCCCTTG-3,4,LOH,LOH: loop of henle,3,WT_3
+8020,AAATGCCTCAATAAGG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8021,AACACGTAGCTAAGAT-3,3,PT,PT: proximal tubule,3,WT_3
+8022,AACACGTAGTCTCAAC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8023,AACACGTGTCTAGCGC-3,3,PT,PT: proximal tubule,3,WT_3
+8024,AACACGTGTTTGACAC-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8025,AACCATGCACGGCCAT-3,3,PT,PT: proximal tubule,3,WT_3
+8026,AACCATGTCTACTCAT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8027,AACCGCGAGTCGTTTG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8028,AACCGCGTCAGTACGT-3,3,PT,PT: proximal tubule,3,WT_3
+8029,AACCGCGTCGCCTGTT-3,3,PT,PT: proximal tubule,3,WT_3
+8030,AACGTTGAGATGAGAG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8031,AACGTTGAGTATTGGA-3,3,PT,PT: proximal tubule,3,WT_3
+8032,AACGTTGAGTCGCCGT-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8033,AACGTTGCATTCCTCG-3,13,B-lymph,B-lymph: B lymphocyte,3,WT_3
+8034,AACGTTGCATTTGCCC-3,4,LOH,LOH: loop of henle,3,WT_3
+8035,AACGTTGGTTAAGAAC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8036,AACGTTGTCCTTCAAT-3,4,LOH,LOH: loop of henle,3,WT_3
+8037,AACGTTGTCGGCGCTA-3,3,PT,PT: proximal tubule,3,WT_3
+8038,AACTCAGGTACTCTCC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8039,AACTCAGGTCTAGGTT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8040,AACTCAGGTGCCTGTG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8041,AACTCAGGTGCTAGCC-3,3,PT,PT: proximal tubule,3,WT_3
+8042,AACTCAGGTTACGGAG-3,4,LOH,LOH: loop of henle,3,WT_3
+8043,AACTCCCAGTTCGCAT-3,3,PT,PT: proximal tubule,3,WT_3
+8044,AACTCCCCAGTAAGCG-3,3,PT,PT: proximal tubule,3,WT_3
+8045,AACTCCCGTCTCCATC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8046,AACTCCCGTCTTGTCC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8047,AACTCTTAGCTAGTTC-3,4,LOH,LOH: loop of henle,3,WT_3
+8048,AACTCTTCATCGACGC-3,3,PT,PT: proximal tubule,3,WT_3
+8049,AACTCTTTCATGTAGC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8050,AACTGGTCAACGCACC-3,3,PT,PT: proximal tubule,3,WT_3
+8051,AACTGGTGTTCGTCTC-3,4,LOH,LOH: loop of henle,3,WT_3
+8052,AACTTTCTCGGACAAG-3,15,NK,NK: natural killer cell,3,WT_3
+8053,AACTTTCTCGGCTACG-3,3,PT,PT: proximal tubule,3,WT_3
+8054,AACTTTCTCTTGTATC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8055,AAGACCTAGAGTCTGG-3,15,NK,NK: natural killer cell,3,WT_3
+8056,AAGACCTAGCGCTCCA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8057,AAGACCTCAATAACGA-3,3,PT,PT: proximal tubule,3,WT_3
+8058,AAGACCTCAGACGCTC-3,4,LOH,LOH: loop of henle,3,WT_3
+8059,AAGACCTGTTTGTTGG-3,4,LOH,LOH: loop of henle,3,WT_3
+8060,AAGACCTTCGTTTATC-3,3,PT,PT: proximal tubule,3,WT_3
+8061,AAGCCGCCATTTGCCC-3,4,LOH,LOH: loop of henle,3,WT_3
+8062,AAGCCGCTCACGAAGG-3,3,PT,PT: proximal tubule,3,WT_3
+8063,AAGCCGCTCCCAACGG-3,3,PT,PT: proximal tubule,3,WT_3
+8064,AAGCCGCTCTGCAAGT-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8065,AAGGAGCTCTGGCGTG-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8066,AAGGTTCAGCCAACAG-3,3,PT,PT: proximal tubule,3,WT_3
+8067,AAGGTTCCATATACGC-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8068,AATCCAGAGCTAGCCC-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8069,AATCCAGAGGCAGTCA-3,4,LOH,LOH: loop of henle,3,WT_3
+8070,AATCCAGGTGCATCTA-3,3,PT,PT: proximal tubule,3,WT_3
+8071,AATCGGTGTGACGCCT-3,3,PT,PT: proximal tubule,3,WT_3
+8072,ACACCAACACTAAGTC-3,3,PT,PT: proximal tubule,3,WT_3
+8073,ACACCAACACTTACGA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8074,ACACCAACATGCATGT-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8075,ACACCAATCGTCTGCT-3,3,PT,PT: proximal tubule,3,WT_3
+8076,ACACCCTAGTGTACTC-3,6,CD-PC,CD-PC: collecting duct principal cell,3,WT_3
+8077,ACACCCTCACGGTAGA-3,3,PT,PT: proximal tubule,3,WT_3
+8078,ACACCGGAGGGTTTCT-3,3,PT,PT: proximal tubule,3,WT_3
+8079,ACACCGGTCAGTTCGA-3,3,PT,PT: proximal tubule,3,WT_3
+8080,ACACTGAAGTGATCGG-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8081,ACACTGACAAGAAAGG-3,3,PT,PT: proximal tubule,3,WT_3
+8082,ACACTGATCTTTCCTC-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8083,ACAGCCGAGCTGCCCA-3,3,PT,PT: proximal tubule,3,WT_3
+8084,ACAGCCGGTGTCCTCT-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8085,ACAGCCGGTGTGAAAT-3,3,PT,PT: proximal tubule,3,WT_3
+8086,ACAGCCGTCCGCAGTG-3,3,PT,PT: proximal tubule,3,WT_3
+8087,ACAGCTAAGTCTCCTC-3,4,LOH,LOH: loop of henle,3,WT_3
+8088,ACAGCTACATCCCACT-3,3,PT,PT: proximal tubule,3,WT_3
+8089,ACAGCTATCAGTTAGC-3,3,PT,PT: proximal tubule,3,WT_3
+8090,ACATACGAGCACACAG-3,3,PT,PT: proximal tubule,3,WT_3
+8091,ACATCAGAGGAGTTGC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8092,ACATCAGCACACCGAC-3,3,PT,PT: proximal tubule,3,WT_3
+8093,ACATGGTAGAAGGACA-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8094,ACCAGTAGTCGAAAGC-3,10,Fib,Fib: fibroblast,3,WT_3
+8095,ACCAGTAGTTGGACCC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8096,ACCCACTGTTAAGGGC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8097,ACCCACTTCAATCTCT-3,3,PT,PT: proximal tubule,3,WT_3
+8098,ACCGTAAGTGTCGCTG-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8099,ACCGTAAGTTGGTGGA-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8100,ACCTTTAAGAAACCGC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8101,ACCTTTACAACTGCTA-3,3,PT,PT: proximal tubule,3,WT_3
+8102,ACCTTTAGTCCGTTAA-3,3,PT,PT: proximal tubule,3,WT_3
+8103,ACCTTTAGTGCCTGGT-3,3,PT,PT: proximal tubule,3,WT_3
+8104,ACCTTTAGTTATCACG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8105,ACCTTTATCACTCTTA-3,3,PT,PT: proximal tubule,3,WT_3
+8106,ACGAGCCAGATAGCAT-3,3,PT,PT: proximal tubule,3,WT_3
+8107,ACGAGCCCAATAGAGT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8108,ACGAGCCTCAGCCTAA-3,4,LOH,LOH: loop of henle,3,WT_3
+8109,ACGAGGACACCAACCG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8110,ACGAGGATCCCTAATT-3,4,LOH,LOH: loop of henle,3,WT_3
+8111,ACGCAGCCAGCTCGAC-3,3,PT,PT: proximal tubule,3,WT_3
+8112,ACGCAGCGTTACTGAC-3,3,PT,PT: proximal tubule,3,WT_3
+8113,ACGCAGCTCGTTTAGG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8114,ACGCCAGAGAAGGACA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8115,ACGCCAGAGCCGGTAA-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8116,ACGCCAGGTCACTGGC-3,3,PT,PT: proximal tubule,3,WT_3
+8117,ACGCCAGGTCGCGTGT-3,3,PT,PT: proximal tubule,3,WT_3
+8118,ACGCCAGGTTATCCGA-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8119,ACGCCAGGTTTAGGAA-3,4,LOH,LOH: loop of henle,3,WT_3
+8120,ACGCCGAAGACATAAC-3,3,PT,PT: proximal tubule,3,WT_3
+8121,ACGCCGAAGAGGTTAT-3,3,PT,PT: proximal tubule,3,WT_3
+8122,ACGCCGAAGTCACGCC-3,3,PT,PT: proximal tubule,3,WT_3
+8123,ACGCCGAGTGACTACT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8124,ACGCCGATCGATAGAA-3,4,LOH,LOH: loop of henle,3,WT_3
+8125,ACGGAGAAGGAGCGTT-3,15,NK,NK: natural killer cell,3,WT_3
+8126,ACGGAGACAGTAACGG-3,3,PT,PT: proximal tubule,3,WT_3
+8127,ACGGAGAGTACATCCA-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8128,ACGGCCAAGACAGACC-3,3,PT,PT: proximal tubule,3,WT_3
+8129,ACGGCCAAGAGGTACC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8130,ACGGCCAAGATCTGCT-3,3,PT,PT: proximal tubule,3,WT_3
+8131,ACGGCCACAAGGACTG-3,3,PT,PT: proximal tubule,3,WT_3
+8132,ACGGGCTAGAAGGGTA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8133,ACGGGCTAGCTAGGCA-3,3,PT,PT: proximal tubule,3,WT_3
+8134,ACGGGCTCATGAACCT-3,3,PT,PT: proximal tubule,3,WT_3
+8135,ACGGGCTGTGCTGTAT-3,3,PT,PT: proximal tubule,3,WT_3
+8136,ACGGGTCAGTGGTAAT-3,3,PT,PT: proximal tubule,3,WT_3
+8137,ACGGGTCGTACCATCA-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8138,ACGGGTCTCACGGTTA-3,4,LOH,LOH: loop of henle,3,WT_3
+8139,ACGTCAAAGACTTGAA-3,3,PT,PT: proximal tubule,3,WT_3
+8140,ACGTCAAAGATCTGAA-3,15,NK,NK: natural killer cell,3,WT_3
+8141,ACGTCAAAGTGAACGC-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8142,ACGTCAAGTCTGCGGT-3,3,PT,PT: proximal tubule,3,WT_3
+8143,ACTATCTAGCGATCCC-3,3,PT,PT: proximal tubule,3,WT_3
+8144,ACTATCTAGGTAGCTG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8145,ACTATCTTCTTTACAC-3,3,PT,PT: proximal tubule,3,WT_3
+8146,ACTGAACAGAAACGAG-3,10,Fib,Fib: fibroblast,3,WT_3
+8147,ACTGAACCATCTATGG-3,4,LOH,LOH: loop of henle,3,WT_3
+8148,ACTGAACGTCTTTCAT-3,15,NK,NK: natural killer cell,3,WT_3
+8149,ACTGAGTAGTGTTTGC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8150,ACTGAGTGTGTTCTTT-3,3,PT,PT: proximal tubule,3,WT_3
+8151,ACTGAGTTCAAACGGG-3,3,PT,PT: proximal tubule,3,WT_3
+8152,ACTGATGCATGCAACT-3,11,Marco,Macro: macrophage,3,WT_3
+8153,ACTGCTCAGGCAATTA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8154,ACTGCTCAGTAGTGCG-3,4,LOH,LOH: loop of henle,3,WT_3
+8155,ACTGCTCCACGAAATA-3,4,LOH,LOH: loop of henle,3,WT_3
+8156,ACTGTCCGTCACAAGG-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8157,ACTGTCCGTTGAACTC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8158,ACTTGTTCAACGCACC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8159,ACTTTCAAGAAGGTTT-3,3,PT,PT: proximal tubule,3,WT_3
+8160,ACTTTCAAGCGAGAAA-3,3,PT,PT: proximal tubule,3,WT_3
+8161,ACTTTCACAAACTGCT-3,4,LOH,LOH: loop of henle,3,WT_3
+8162,ACTTTCACAGTGGGAT-3,3,PT,PT: proximal tubule,3,WT_3
+8163,ACTTTCACAGTTCCCT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8164,ACTTTCATCACTTATC-3,3,PT,PT: proximal tubule,3,WT_3
+8165,ACTTTCATCTAGCACA-3,3,PT,PT: proximal tubule,3,WT_3
+8166,AGACGTTCAATCTGCA-3,3,PT,PT: proximal tubule,3,WT_3
+8167,AGAGCTTAGGCTAGCA-3,4,LOH,LOH: loop of henle,3,WT_3
+8168,AGAGCTTCAGTGAGTG-3,3,PT,PT: proximal tubule,3,WT_3
+8169,AGAGCTTCATTATCTC-3,3,PT,PT: proximal tubule,3,WT_3
+8170,AGAGTGGAGCTAAACA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8171,AGAGTGGCAGCTCGAC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8172,AGATCTGCATAAAGGT-3,3,PT,PT: proximal tubule,3,WT_3
+8173,AGATCTGGTCCGAACC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8174,AGATTGCCAGACGCAA-3,6,CD-PC,CD-PC: collecting duct principal cell,3,WT_3
+8175,AGATTGCCATTATCTC-3,3,PT,PT: proximal tubule,3,WT_3
+8176,AGATTGCGTCTAGTCA-3,15,NK,NK: natural killer cell,3,WT_3
+8177,AGCAGCCCAGGCTCAC-3,3,PT,PT: proximal tubule,3,WT_3
+8178,AGCAGCCCAGTAAGAT-3,10,Fib,Fib: fibroblast,3,WT_3
+8179,AGCAGCCTCGGCTTGG-3,4,LOH,LOH: loop of henle,3,WT_3
+8180,AGCATACAGGGAACGG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8181,AGCATACAGTCTTGCA-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8182,AGCATACCATTCGACA-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8183,AGCCTAAAGCTGGAAC-3,3,PT,PT: proximal tubule,3,WT_3
+8184,AGCCTAAAGGCATGTG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8185,AGCCTAACAGTTAACC-3,3,PT,PT: proximal tubule,3,WT_3
+8186,AGCCTAAGTCCGACGT-3,3,PT,PT: proximal tubule,3,WT_3
+8187,AGCCTAAGTCTCAACA-3,3,PT,PT: proximal tubule,3,WT_3
+8188,AGCGGTCTCTTTACGT-3,3,PT,PT: proximal tubule,3,WT_3
+8189,AGCGTATAGCATCATC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8190,AGCGTATAGCCGCCTA-3,15,NK,NK: natural killer cell,3,WT_3
+8191,AGCGTATAGGGTCGAT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8192,AGCGTATCAACGATCT-3,3,PT,PT: proximal tubule,3,WT_3
+8193,AGCGTATCAATGGATA-3,3,PT,PT: proximal tubule,3,WT_3
+8194,AGCGTATGTAAGTGTA-3,3,PT,PT: proximal tubule,3,WT_3
+8195,AGCGTATTCACTGGGC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8196,AGCGTCGCACGAAATA-3,3,PT,PT: proximal tubule,3,WT_3
+8197,AGCGTCGGTTACCGAT-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8198,AGCGTCGGTTGCGTTA-3,3,PT,PT: proximal tubule,3,WT_3
+8199,AGCGTCGTCAACTCTT-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8200,AGCTCCTAGCTGGAAC-3,3,PT,PT: proximal tubule,3,WT_3
+8201,AGCTCCTAGGCGATAC-3,3,PT,PT: proximal tubule,3,WT_3
+8202,AGCTCCTCAGAAGCAC-3,3,PT,PT: proximal tubule,3,WT_3
+8203,AGCTCCTGTACGAAAT-3,3,PT,PT: proximal tubule,3,WT_3
+8204,AGCTCCTTCAGTTGAC-3,10,Fib,Fib: fibroblast,3,WT_3
+8205,AGCTCCTTCCCAACGG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8206,AGCTCTCAGAAACCTA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8207,AGCTTGACACATTCGA-3,4,LOH,LOH: loop of henle,3,WT_3
+8208,AGCTTGACAGGGTATG-3,3,PT,PT: proximal tubule,3,WT_3
+8209,AGGCCACGTTAGGGTG-3,15,NK,NK: natural killer cell,3,WT_3
+8210,AGGCCACTCGTCACGG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8211,AGGCCGTGTAATAGCA-3,3,PT,PT: proximal tubule,3,WT_3
+8212,AGGCCGTGTCTTGATG-3,3,PT,PT: proximal tubule,3,WT_3
+8213,AGGCCGTTCCCATTTA-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8214,AGGCCGTTCTAACTCT-3,4,LOH,LOH: loop of henle,3,WT_3
+8215,AGGGAGTGTGACGCCT-3,3,PT,PT: proximal tubule,3,WT_3
+8216,AGGGAGTTCCGCGGTA-3,10,Fib,Fib: fibroblast,3,WT_3
+8217,AGGGATGAGGACCACA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8218,AGGGATGCAGGTCGTC-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8219,AGGGATGGTCATATGC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8220,AGGGATGTCATAAAGG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8221,AGGGTGAAGTCAATAG-3,3,PT,PT: proximal tubule,3,WT_3
+8222,AGGGTGACACTATCTT-3,15,NK,NK: natural killer cell,3,WT_3
+8223,AGGGTGAGTCGCCATG-3,3,PT,PT: proximal tubule,3,WT_3
+8224,AGGGTGAGTTATCGGT-3,3,PT,PT: proximal tubule,3,WT_3
+8225,AGGTCATCAAGCCTAT-3,3,PT,PT: proximal tubule,3,WT_3
+8226,AGGTCATGTACTTAGC-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8227,AGGTCATTCGGCCGAT-3,3,PT,PT: proximal tubule,3,WT_3
+8228,AGGTCCGCAGCTGCAC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8229,AGGTCCGGTAGAAAGG-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8230,AGGTCCGGTCGAACAG-3,3,PT,PT: proximal tubule,3,WT_3
+8231,AGTAGTCCAGACGCCT-3,3,PT,PT: proximal tubule,3,WT_3
+8232,AGTAGTCGTGCAACTT-3,3,PT,PT: proximal tubule,3,WT_3
+8233,AGTAGTCGTGGCTCCA-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8234,AGTAGTCTCAAAGTAG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8235,AGTAGTCTCTTTACAC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8236,AGTCTTTCAGAGCCAA-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8237,AGTCTTTCAGGTGGAT-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8238,AGTCTTTGTGACTCAT-3,3,PT,PT: proximal tubule,3,WT_3
+8239,AGTGAGGAGATGGCGT-3,4,LOH,LOH: loop of henle,3,WT_3
+8240,AGTGAGGGTACACCGC-3,3,PT,PT: proximal tubule,3,WT_3
+8241,AGTGAGGGTCGTCTTC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8242,AGTGTCACAATCCAAC-3,3,PT,PT: proximal tubule,3,WT_3
+8243,AGTGTCAGTACAGTGG-3,4,LOH,LOH: loop of henle,3,WT_3
+8244,AGTGTCATCATGGTCA-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8245,AGTTGGTCAGGAACGT-3,3,PT,PT: proximal tubule,3,WT_3
+8246,AGTTGGTCAGTGGAGT-3,15,NK,NK: natural killer cell,3,WT_3
+8247,AGTTGGTGTAGCGTCC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8248,AGTTGGTTCTTGCATT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8249,ATAACGCAGAGATGAG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8250,ATAACGCAGAGCAATT-3,15,NK,NK: natural killer cell,3,WT_3
+8251,ATAACGCAGGGCATGT-3,3,PT,PT: proximal tubule,3,WT_3
+8252,ATAACGCCAAGCCGCT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8253,ATAACGCTCCGTAGGC-3,3,PT,PT: proximal tubule,3,WT_3
+8254,ATAAGAGAGTGGGCTA-3,3,PT,PT: proximal tubule,3,WT_3
+8255,ATAAGAGCAAGGACAC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8256,ATAAGAGCACTGTTAG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8257,ATAAGAGGTCAGAAGC-3,3,PT,PT: proximal tubule,3,WT_3
+8258,ATAAGAGTCCATGAAC-3,4,LOH,LOH: loop of henle,3,WT_3
+8259,ATAAGAGTCTCTTGAT-3,4,LOH,LOH: loop of henle,3,WT_3
+8260,ATAGACCAGTGTACGG-3,3,PT,PT: proximal tubule,3,WT_3
+8261,ATAGACCCAGCGTCCA-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8262,ATAGACCGTTCTCATT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8263,ATCACGAAGATGTGTA-3,3,PT,PT: proximal tubule,3,WT_3
+8264,ATCACGAAGGCCCTTG-3,3,PT,PT: proximal tubule,3,WT_3
+8265,ATCACGACACTAAGTC-3,3,PT,PT: proximal tubule,3,WT_3
+8266,ATCACGAGTCACCTAA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8267,ATCACGATCCAAGCCG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8268,ATCATCTAGACATAAC-3,3,PT,PT: proximal tubule,3,WT_3
+8269,ATCATCTCAACACCCG-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8270,ATCATCTCACCAGCAC-3,3,PT,PT: proximal tubule,3,WT_3
+8271,ATCATCTGTGGGTCAA-3,3,PT,PT: proximal tubule,3,WT_3
+8272,ATCATCTTCATAACCG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8273,ATCATGGCAGCTGGCT-3,3,PT,PT: proximal tubule,3,WT_3
+8274,ATCCACCCACTGTGTA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8275,ATCCACCCACTTCTGC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8276,ATCCACCCAGATTGCT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8277,ATCCACCGTGATAAGT-3,12,Neutro,Neutro: neutrophil,3,WT_3
+8278,ATCCGAACATCGATTG-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8279,ATCCGAAGTCGCATCG-3,3,PT,PT: proximal tubule,3,WT_3
+8280,ATCCGAAGTGCAGGTA-3,3,PT,PT: proximal tubule,3,WT_3
+8281,ATCCGAATCGCCAAAT-3,4,LOH,LOH: loop of henle,3,WT_3
+8282,ATCCGAATCGGCCGAT-3,15,NK,NK: natural killer cell,3,WT_3
+8283,ATCCGAATCGTCGTTC-3,3,PT,PT: proximal tubule,3,WT_3
+8284,ATCCGAATCTCTAGGA-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8285,ATCGAGTAGGTGCAAC-3,3,PT,PT: proximal tubule,3,WT_3
+8286,ATCGAGTGTACAAGTA-3,8,CD-Tran,CD-Trans: CD transient cell,3,WT_3
+8287,ATCGAGTGTCTAGCCG-3,3,PT,PT: proximal tubule,3,WT_3
+8288,ATCTACTTCAGTTCGA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8289,ATCTACTTCCTCAACC-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8290,ATCTGCCAGCACAGGT-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8291,ATCTGCCTCAACGAAA-3,3,PT,PT: proximal tubule,3,WT_3
+8292,ATCTGCCTCTGCGGCA-3,3,PT,PT: proximal tubule,3,WT_3
+8293,ATGAGGGGTGCGATAG-3,3,PT,PT: proximal tubule,3,WT_3
+8294,ATGCGATAGACTTGAA-3,3,PT,PT: proximal tubule,3,WT_3
+8295,ATGCGATTCAGCTGGC-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8296,ATGCGATTCCATGAAC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8297,ATGTGTGAGCTGGAAC-3,3,PT,PT: proximal tubule,3,WT_3
+8298,ATGTGTGCAAGTAGTA-3,15,NK,NK: natural killer cell,3,WT_3
+8299,ATGTGTGCAATGAATG-3,3,PT,PT: proximal tubule,3,WT_3
+8300,ATGTGTGCAGTTAACC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8301,ATGTGTGTCCATGAAC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8302,ATGTGTGTCCATGCTC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8303,ATTACTCAGACAATAC-3,15,NK,NK: natural killer cell,3,WT_3
+8304,ATTACTCAGTCCGTAT-3,3,PT,PT: proximal tubule,3,WT_3
+8305,ATTACTCGTCTTCTCG-3,3,PT,PT: proximal tubule,3,WT_3
+8306,ATTATCCCAAGCGATG-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8307,ATTCTACCAGGAACGT-3,3,PT,PT: proximal tubule,3,WT_3
+8308,ATTCTACGTGTGCGTC-3,3,PT,PT: proximal tubule,3,WT_3
+8309,ATTCTACTCAGCTGGC-3,4,LOH,LOH: loop of henle,3,WT_3
+8310,ATTCTACTCGCACTCT-3,3,PT,PT: proximal tubule,3,WT_3
+8311,ATTGGACAGGTGATTA-3,3,PT,PT: proximal tubule,3,WT_3
+8312,ATTGGACAGTACGTTC-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8313,ATTGGACCAATTCCTT-3,3,PT,PT: proximal tubule,3,WT_3
+8314,ATTGGACCACACCGAC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8315,ATTGGACCATACTCTT-3,3,PT,PT: proximal tubule,3,WT_3
+8316,ATTGGACGTCACTTCC-3,4,LOH,LOH: loop of henle,3,WT_3
+8317,ATTGGTGAGGCATTGG-3,3,PT,PT: proximal tubule,3,WT_3
+8318,ATTGGTGCAGTGGGAT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8319,ATTTCTGAGTACGTTC-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8320,ATTTCTGCACGACGAA-3,3,PT,PT: proximal tubule,3,WT_3
+8321,ATTTCTGGTTGTCGCG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8322,ATTTCTGTCGCCCTTA-3,3,PT,PT: proximal tubule,3,WT_3
+8323,CAACCAAAGTTGAGAT-3,13,B-lymph,B-lymph: B lymphocyte,3,WT_3
+8324,CAACCAACAATTCCTT-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8325,CAACCAATCACAAACC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8326,CAACCTCGTCGGCATC-3,3,PT,PT: proximal tubule,3,WT_3
+8327,CAACCTCGTGACTCAT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8328,CAACTAGGTCATGCCG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8329,CAACTAGTCTAACGGT-3,4,LOH,LOH: loop of henle,3,WT_3
+8330,CAAGAAATCAATCTCT-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8331,CAAGATCAGTGCGATG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8332,CAAGATCCACTACAGT-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8333,CAAGATCTCCCAGGTG-3,3,PT,PT: proximal tubule,3,WT_3
+8334,CAAGATCTCTGCTTGC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8335,CAAGGCCAGTGTCCAT-3,3,PT,PT: proximal tubule,3,WT_3
+8336,CAAGGCCCACAAGCCC-3,13,B-lymph,B-lymph: B lymphocyte,3,WT_3
+8337,CAAGTTGAGCGAGAAA-3,3,PT,PT: proximal tubule,3,WT_3
+8338,CAAGTTGAGTAACCCT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8339,CAAGTTGGTATGCTTG-3,3,PT,PT: proximal tubule,3,WT_3
+8340,CAAGTTGGTCATACTG-3,3,PT,PT: proximal tubule,3,WT_3
+8341,CACAAACCACAACTGT-3,3,PT,PT: proximal tubule,3,WT_3
+8342,CACAAACCACCCATTC-3,4,LOH,LOH: loop of henle,3,WT_3
+8343,CACAAACCAGATGGGT-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8344,CACAAACGTAGGAGTC-3,3,PT,PT: proximal tubule,3,WT_3
+8345,CACACAAGTCCAAGTT-3,3,PT,PT: proximal tubule,3,WT_3
+8346,CACACAAGTTCGGCAC-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8347,CACACCTAGCCGCCTA-3,3,PT,PT: proximal tubule,3,WT_3
+8348,CACACCTAGCTTTGGT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8349,CACACCTAGGCTAGCA-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8350,CACACCTGTGTGCCTG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8351,CACACTCAGAGGTTAT-3,3,PT,PT: proximal tubule,3,WT_3
+8352,CACACTCGTCTCATCC-3,15,NK,NK: natural killer cell,3,WT_3
+8353,CACACTCTCGCCATAA-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8354,CACAGGCAGAATGTTG-3,3,PT,PT: proximal tubule,3,WT_3
+8355,CACAGTAGTATGCTTG-3,3,PT,PT: proximal tubule,3,WT_3
+8356,CACATAGAGAGTCTGG-3,3,PT,PT: proximal tubule,3,WT_3
+8357,CACATAGAGCTAGGCA-3,3,PT,PT: proximal tubule,3,WT_3
+8358,CACATAGAGTTAACGA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8359,CACATAGCATTCCTGC-3,3,PT,PT: proximal tubule,3,WT_3
+8360,CACATAGGTCCGTGAC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8361,CACATAGGTGCACGAA-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8362,CACATAGTCAACTCTT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8363,CACATTTAGCAACGGT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8364,CACATTTTCATACGGT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8365,CACATTTTCCACTCCA-3,3,PT,PT: proximal tubule,3,WT_3
+8366,CACCACTCAGATAATG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8367,CACCACTCATCCGGGT-3,3,PT,PT: proximal tubule,3,WT_3
+8368,CACCAGGGTTTGTTGG-3,3,PT,PT: proximal tubule,3,WT_3
+8369,CACCAGGTCGGCGCAT-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8370,CACCAGGTCGTTACAG-3,3,PT,PT: proximal tubule,3,WT_3
+8371,CACCAGGTCTTGCAAG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8372,CACCTTGCAAACCTAC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8373,CACCTTGCAGACAAAT-3,3,PT,PT: proximal tubule,3,WT_3
+8374,CACCTTGCAGGGCATA-3,8,CD-Tran,CD-Trans: CD transient cell,3,WT_3
+8375,CACCTTGGTCTTTCAT-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8376,CACCTTGTCAGCCTAA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8377,CACTCCACACCTTGTC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8378,CACTCCACAGAGTGTG-3,3,PT,PT: proximal tubule,3,WT_3
+8379,CACTCCAGTATCAGTC-3,3,PT,PT: proximal tubule,3,WT_3
+8380,CACTCCAGTTACGGAG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8381,CAGAGAGAGGACCACA-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8382,CAGAGAGAGGTTACCT-3,4,LOH,LOH: loop of henle,3,WT_3
+8383,CAGAGAGGTCTAGTCA-3,6,CD-PC,CD-PC: collecting duct principal cell,3,WT_3
+8384,CAGAGAGGTCTCCCTA-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8385,CAGAGAGGTCTGATTG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8386,CAGATCAAGACATAAC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8387,CAGATCAGTTATGTGC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8388,CAGCAGCAGGTCGGAT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8389,CAGCAGCTCTTACCTA-3,3,PT,PT: proximal tubule,3,WT_3
+8390,CAGCAGCTCTTATCTG-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8391,CAGCATAAGTACATGA-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8392,CAGCATAGTGATAAGT-3,12,Neutro,Neutro: neutrophil,3,WT_3
+8393,CAGCCGATCACGGTTA-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8394,CAGCGACAGTCGATAA-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8395,CAGCGACGTCGGCTCA-3,3,PT,PT: proximal tubule,3,WT_3
+8396,CAGCGACTCACTTACT-3,3,PT,PT: proximal tubule,3,WT_3
+8397,CAGCTAACAAGAGTCG-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8398,CAGCTAATCTCCAGGG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8399,CAGCTGGAGTGCCAGA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8400,CAGCTGGGTGCCTGGT-3,3,PT,PT: proximal tubule,3,WT_3
+8401,CAGGTGCAGTGGAGAA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8402,CAGGTGCAGTTGAGAT-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8403,CAGGTGCTCTACGAGT-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8404,CAGTAACTCAGGATCT-3,4,LOH,LOH: loop of henle,3,WT_3
+8405,CAGTAACTCTTTACGT-3,3,PT,PT: proximal tubule,3,WT_3
+8406,CAGTCCTCATGCCTTC-3,3,PT,PT: proximal tubule,3,WT_3
+8407,CAGTCCTTCGTGACAT-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8408,CATATGGCAAACTGTC-3,3,PT,PT: proximal tubule,3,WT_3
+8409,CATATGGCATGGTAGG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8410,CATATGGGTCACCTAA-3,3,PT,PT: proximal tubule,3,WT_3
+8411,CATATGGGTCCGCTGA-3,3,PT,PT: proximal tubule,3,WT_3
+8412,CATATGGTCAGCGACC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8413,CATATGGTCCCAAGTA-3,3,PT,PT: proximal tubule,3,WT_3
+8414,CATATTCAGAGCTGGT-3,3,PT,PT: proximal tubule,3,WT_3
+8415,CATATTCAGGCGCTCT-3,3,PT,PT: proximal tubule,3,WT_3
+8416,CATATTCCAGACGCTC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8417,CATATTCGTGCGATAG-3,3,PT,PT: proximal tubule,3,WT_3
+8418,CATATTCTCTTCGAGA-3,3,PT,PT: proximal tubule,3,WT_3
+8419,CATCAAGAGGCTAGAC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8420,CATCAAGTCCGTACAA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8421,CATCAAGTCGCCCTTA-3,15,NK,NK: natural killer cell,3,WT_3
+8422,CATCAAGTCGTGGTCG-3,3,PT,PT: proximal tubule,3,WT_3
+8423,CATCAAGTCTGCGACG-3,3,PT,PT: proximal tubule,3,WT_3
+8424,CATCAGAGTCAACATC-3,3,PT,PT: proximal tubule,3,WT_3
+8425,CATCCACAGGGTGTTG-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8426,CATCCACAGTTTAGGA-3,3,PT,PT: proximal tubule,3,WT_3
+8427,CATCCACGTTATGCGT-3,3,PT,PT: proximal tubule,3,WT_3
+8428,CATCGAAAGGTCGGAT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8429,CATCGAAGTAGCTTGT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8430,CATCGAATCCTATGTT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8431,CATCGGGAGATGCCTT-3,4,LOH,LOH: loop of henle,3,WT_3
+8432,CATCGGGCAAGGTTTC-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8433,CATCGGGGTCTGATCA-3,3,PT,PT: proximal tubule,3,WT_3
+8434,CATCGGGTCAGTTGAC-3,15,NK,NK: natural killer cell,3,WT_3
+8435,CATCGGGTCCCAGGTG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8436,CATGACAAGTCTCCTC-3,4,LOH,LOH: loop of henle,3,WT_3
+8437,CATGACACATTGAGCT-3,3,PT,PT: proximal tubule,3,WT_3
+8438,CATGACATCGCGGATC-3,3,PT,PT: proximal tubule,3,WT_3
+8439,CATGCCTCAATCGAAA-3,4,LOH,LOH: loop of henle,3,WT_3
+8440,CATGCCTCAGCCAATT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8441,CATGGCGTCCTCTAGC-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8442,CATGGCGTCTCAACTT-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8443,CATTATCAGAGGTTGC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8444,CATTATCCATGTCGAT-3,15,NK,NK: natural killer cell,3,WT_3
+8445,CATTATCGTAAATACG-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8446,CATTATCTCTTTACGT-3,4,LOH,LOH: loop of henle,3,WT_3
+8447,CATTCGCAGCAGACTG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8448,CCAATCCAGGTTCCTA-3,3,PT,PT: proximal tubule,3,WT_3
+8449,CCAATCCAGTATCTCG-3,13,B-lymph,B-lymph: B lymphocyte,3,WT_3
+8450,CCAATCCTCGACAGCC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8451,CCACCTACATCGATTG-3,3,PT,PT: proximal tubule,3,WT_3
+8452,CCACCTAGTCAAAGAT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8453,CCACCTAGTGACAAAT-3,3,PT,PT: proximal tubule,3,WT_3
+8454,CCACGGACATAGGATA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8455,CCACGGAGTAGCAAAT-3,3,PT,PT: proximal tubule,3,WT_3
+8456,CCACGGAGTTCACGGC-3,13,B-lymph,B-lymph: B lymphocyte,3,WT_3
+8457,CCACTACCAAGCCATT-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8458,CCACTACCACCATGTA-3,3,PT,PT: proximal tubule,3,WT_3
+8459,CCACTACTCCAGTATG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8460,CCAGCGAAGATACACA-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8461,CCAGCGACACACCGAC-3,4,LOH,LOH: loop of henle,3,WT_3
+8462,CCAGCGATCAGCTGGC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8463,CCATGTCCAAAGGCGT-3,6,CD-PC,CD-PC: collecting duct principal cell,3,WT_3
+8464,CCATGTCGTAGAAAGG-3,3,PT,PT: proximal tubule,3,WT_3
+8465,CCATGTCGTCTGATCA-3,3,PT,PT: proximal tubule,3,WT_3
+8466,CCATGTCGTCTGGTCG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8467,CCATGTCTCGTTGCCT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8468,CCATTCGAGACGACGT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8469,CCATTCGGTCCCTACT-3,3,PT,PT: proximal tubule,3,WT_3
+8470,CCATTCGGTGGTTTCA-3,4,LOH,LOH: loop of henle,3,WT_3
+8471,CCCAATCAGGATGTAT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8472,CCCAATCGTAGCGATG-3,3,PT,PT: proximal tubule,3,WT_3
+8473,CCCAATCTCAAAGACA-3,3,PT,PT: proximal tubule,3,WT_3
+8474,CCCAATCTCCGTTGTC-3,4,LOH,LOH: loop of henle,3,WT_3
+8475,CCCAGTTAGCCTTGAT-3,3,PT,PT: proximal tubule,3,WT_3
+8476,CCCAGTTAGGCATGGT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8477,CCCAGTTCATCAGTCA-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8478,CCCAGTTGTGGTTTCA-3,3,PT,PT: proximal tubule,3,WT_3
+8479,CCCAGTTTCCCGACTT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8480,CCCATACAGGAGTAGA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8481,CCCATACAGTGTACCT-3,3,PT,PT: proximal tubule,3,WT_3
+8482,CCCATACTCGCACTCT-3,3,PT,PT: proximal tubule,3,WT_3
+8483,CCCTCCTAGATCTGCT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8484,CCCTCCTAGCGCCTTG-3,3,PT,PT: proximal tubule,3,WT_3
+8485,CCCTCCTAGGTGACCA-3,4,LOH,LOH: loop of henle,3,WT_3
+8486,CCCTCCTGTTCTGGTA-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8487,CCGGGATGTAGCGCTC-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8488,CCGGGATGTGGTAACG-3,3,PT,PT: proximal tubule,3,WT_3
+8489,CCGGTAGAGTTATCGC-3,3,PT,PT: proximal tubule,3,WT_3
+8490,CCGGTAGTCTGAGTGT-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8491,CCGTACTCAGCTGTTA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8492,CCGTACTTCCAGTAGT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8493,CCGTGGACAGGCAGTA-3,3,PT,PT: proximal tubule,3,WT_3
+8494,CCGTGGACAGTTCCCT-3,3,PT,PT: proximal tubule,3,WT_3
+8495,CCGTGGACATACGCCG-3,3,PT,PT: proximal tubule,3,WT_3
+8496,CCGTGGATCTTTAGTC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8497,CCGTTCAGTCGCGTGT-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8498,CCGTTCAGTGCTTCTC-3,3,PT,PT: proximal tubule,3,WT_3
+8499,CCGTTCATCCCAAGAT-3,3,PT,PT: proximal tubule,3,WT_3
+8500,CCTAAAGAGGGTCTCC-3,3,PT,PT: proximal tubule,3,WT_3
+8501,CCTAAAGGTCAATGTC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8502,CCTAAAGTCAAAGACA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8503,CCTACACTCACTCTTA-3,3,PT,PT: proximal tubule,3,WT_3
+8504,CCTACCAAGGCTAGGT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8505,CCTACCACACGCTTTC-3,3,PT,PT: proximal tubule,3,WT_3
+8506,CCTACCACACGGTAGA-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8507,CCTACCAGTTATCGGT-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8508,CCTAGCTAGGATCGCA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8509,CCTAGCTAGGCAAAGA-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8510,CCTAGCTCAGAGTGTG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8511,CCTAGCTCAGGTGCCT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8512,CCTATTAGTAGCGCAA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8513,CCTATTAGTTATTCTC-3,3,PT,PT: proximal tubule,3,WT_3
+8514,CCTATTATCGGTCTAA-3,15,NK,NK: natural killer cell,3,WT_3
+8515,CCTATTATCTGGGCCA-3,3,PT,PT: proximal tubule,3,WT_3
+8516,CCTCAGTAGGCTCAGA-3,3,PT,PT: proximal tubule,3,WT_3
+8517,CCTCAGTTCGGCTTGG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8518,CCTCTGACAGTCCTTC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8519,CCTCTGATCGGAATCT-3,3,PT,PT: proximal tubule,3,WT_3
+8520,CCTTACGAGCCCAATT-3,3,PT,PT: proximal tubule,3,WT_3
+8521,CCTTACGAGGAACTGC-3,4,LOH,LOH: loop of henle,3,WT_3
+8522,CCTTACGCATCTACGA-3,3,PT,PT: proximal tubule,3,WT_3
+8523,CCTTACGGTACATCCA-3,3,PT,PT: proximal tubule,3,WT_3
+8524,CCTTACGTCGTAGGTT-3,4,LOH,LOH: loop of henle,3,WT_3
+8525,CCTTCCCCAATGGAAT-3,3,PT,PT: proximal tubule,3,WT_3
+8526,CCTTCCCCACCCATTC-3,10,Fib,Fib: fibroblast,3,WT_3
+8527,CCTTCCCCAGTCTTCC-3,9,Novel1,Novel1: novel cell type 1,3,WT_3
+8528,CCTTCCCGTAGGCATG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8529,CCTTCCCGTCTCCACT-3,3,PT,PT: proximal tubule,3,WT_3
+8530,CCTTCCCTCACTGGGC-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8531,CCTTCGACATGCTAGT-3,3,PT,PT: proximal tubule,3,WT_3
+8532,CCTTTCTGTGGTACAG-3,15,NK,NK: natural killer cell,3,WT_3
+8533,CGAACATCACCGCTAG-3,3,PT,PT: proximal tubule,3,WT_3
+8534,CGAACATGTGCGGTAA-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8535,CGAACATTCGACCAGC-3,3,PT,PT: proximal tubule,3,WT_3
+8536,CGAATGTAGTCCTCCT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8537,CGAATGTCACTTAAGC-3,3,PT,PT: proximal tubule,3,WT_3
+8538,CGAATGTGTAAGGGAA-3,3,PT,PT: proximal tubule,3,WT_3
+8539,CGAATGTGTAGTACCT-3,3,PT,PT: proximal tubule,3,WT_3
+8540,CGACCTTCACAGGCCT-3,3,PT,PT: proximal tubule,3,WT_3
+8541,CGACTTCAGTGGCACA-3,3,PT,PT: proximal tubule,3,WT_3
+8542,CGACTTCCAGGGTACA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8543,CGACTTCTCCGTAGGC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8544,CGAGAAGCAATCAGAA-3,4,LOH,LOH: loop of henle,3,WT_3
+8545,CGAGAAGGTCATGCAT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8546,CGAGAAGTCCCTAATT-3,3,PT,PT: proximal tubule,3,WT_3
+8547,CGAGCACCACAACGTT-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8548,CGAGCACCACGAAACG-3,4,LOH,LOH: loop of henle,3,WT_3
+8549,CGAGCACGTTCTGTTT-3,3,PT,PT: proximal tubule,3,WT_3
+8550,CGAGCACGTTGGACCC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8551,CGAGCCACAAAGTCAA-3,3,PT,PT: proximal tubule,3,WT_3
+8552,CGAGCCAGTGGACGAT-3,3,PT,PT: proximal tubule,3,WT_3
+8553,CGAGCCAGTGGCAAAC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8554,CGAGCCATCTGTGCAA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8555,CGATCGGAGAAAGTGG-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8556,CGATCGGCAATTCCTT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8557,CGATCGGGTCGAGTTT-3,3,PT,PT: proximal tubule,3,WT_3
+8558,CGATGGCAGGAGCGTT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8559,CGATGGCCAATTGCTG-3,3,PT,PT: proximal tubule,3,WT_3
+8560,CGATGGCCAGCATGAG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8561,CGATGTAAGGAGCGTT-3,3,PT,PT: proximal tubule,3,WT_3
+8562,CGATGTACACAGACTT-3,3,PT,PT: proximal tubule,3,WT_3
+8563,CGATGTAGTCCTCCAT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8564,CGATGTATCACCAGGC-3,3,PT,PT: proximal tubule,3,WT_3
+8565,CGATTGAGTAAATGTG-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8566,CGCCAAGGTAATCGTC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8567,CGCGGTAAGTCATGCT-3,3,PT,PT: proximal tubule,3,WT_3
+8568,CGCGGTATCGCAAGCC-3,3,PT,PT: proximal tubule,3,WT_3
+8569,CGCGTTTAGTGGAGTC-3,3,PT,PT: proximal tubule,3,WT_3
+8570,CGCGTTTAGTGTTTGC-3,3,PT,PT: proximal tubule,3,WT_3
+8571,CGCGTTTCACACCGAC-3,3,PT,PT: proximal tubule,3,WT_3
+8572,CGCGTTTTCGGAGGTA-3,3,PT,PT: proximal tubule,3,WT_3
+8573,CGCTATCGTCTCATCC-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8574,CGCTATCGTGGTACAG-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8575,CGCTATCTCAGCATGT-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8576,CGCTGGAAGGCATGGT-3,3,PT,PT: proximal tubule,3,WT_3
+8577,CGCTGGAAGGGCTCTC-3,4,LOH,LOH: loop of henle,3,WT_3
+8578,CGCTGGAGTCTGCGGT-3,3,PT,PT: proximal tubule,3,WT_3
+8579,CGCTGGAGTTACGCGC-3,3,PT,PT: proximal tubule,3,WT_3
+8580,CGCTTCAAGTACATGA-3,3,PT,PT: proximal tubule,3,WT_3
+8581,CGCTTCATCCGCATAA-3,3,PT,PT: proximal tubule,3,WT_3
+8582,CGCTTCATCTGTTTGT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8583,CGGACACAGATGCCAG-3,3,PT,PT: proximal tubule,3,WT_3
+8584,CGGACACAGTTGAGTA-3,6,CD-PC,CD-PC: collecting duct principal cell,3,WT_3
+8585,CGGACACCATTACCTT-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8586,CGGACTGAGAGCTTCT-3,4,LOH,LOH: loop of henle,3,WT_3
+8587,CGGACTGAGCTAAGAT-3,3,PT,PT: proximal tubule,3,WT_3
+8588,CGGACTGAGTGCAAGC-3,3,PT,PT: proximal tubule,3,WT_3
+8589,CGGACTGCACGTGAGA-3,15,NK,NK: natural killer cell,3,WT_3
+8590,CGGACTGGTCGGCTCA-3,3,PT,PT: proximal tubule,3,WT_3
+8591,CGGACTGGTGCTCTTC-3,3,PT,PT: proximal tubule,3,WT_3
+8592,CGGAGCTAGTCACGCC-3,3,PT,PT: proximal tubule,3,WT_3
+8593,CGGAGCTGTTAGAACA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8594,CGGAGTCAGTTCCACA-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8595,CGGAGTCGTTGAGGTG-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8596,CGGCTAGAGTTAGGTA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8597,CGGCTAGCAATAGAGT-3,3,PT,PT: proximal tubule,3,WT_3
+8598,CGGCTAGCAATTCCTT-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8599,CGGCTAGTCAATCACG-3,11,Marco,Macro: macrophage,3,WT_3
+8600,CGGGTCAAGGACCACA-3,3,PT,PT: proximal tubule,3,WT_3
+8601,CGGGTCAGTATCACCA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8602,CGGTTAAGTAGCTGCC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8603,CGGTTAAGTCACACGC-3,3,PT,PT: proximal tubule,3,WT_3
+8604,CGTAGCGCATCGATTG-3,4,LOH,LOH: loop of henle,3,WT_3
+8605,CGTAGGCAGGATGCGT-3,3,PT,PT: proximal tubule,3,WT_3
+8606,CGTAGGCAGTGTACCT-3,3,PT,PT: proximal tubule,3,WT_3
+8607,CGTCACTCAGTCGATT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8608,CGTCACTGTGAACCTT-3,3,PT,PT: proximal tubule,3,WT_3
+8609,CGTCAGGCAGTATGCT-3,4,LOH,LOH: loop of henle,3,WT_3
+8610,CGTCTACCAGCCTTGG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8611,CGTCTACCAGTGGGAT-3,4,LOH,LOH: loop of henle,3,WT_3
+8612,CGTCTACCATTCTTAC-3,3,PT,PT: proximal tubule,3,WT_3
+8613,CGTCTACGTAGCGTGA-3,8,CD-Tran,CD-Trans: CD transient cell,3,WT_3
+8614,CGTCTACGTGAAATCA-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8615,CGTGAGCAGAAGGGTA-3,3,PT,PT: proximal tubule,3,WT_3
+8616,CGTGAGCAGTAGGTGC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8617,CGTGAGCCACGTAAGG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8618,CGTGTAAAGCGTGAGT-3,10,Fib,Fib: fibroblast,3,WT_3
+8619,CGTGTAACACTAAGTC-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8620,CGTGTAAGTTACAGAA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8621,CGTGTAAGTTCACGGC-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8622,CGTGTAATCATGTAGC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8623,CGTGTCTAGAAGGCCT-3,15,NK,NK: natural killer cell,3,WT_3
+8624,CGTGTCTAGTGAAGAG-3,3,PT,PT: proximal tubule,3,WT_3
+8625,CGTGTCTCAAGAGTCG-3,3,PT,PT: proximal tubule,3,WT_3
+8626,CGTGTCTCAAGTCTAC-3,3,PT,PT: proximal tubule,3,WT_3
+8627,CGTTAGAGTACTCAAC-3,4,LOH,LOH: loop of henle,3,WT_3
+8628,CGTTCTGGTAGCTCCG-3,4,LOH,LOH: loop of henle,3,WT_3
+8629,CGTTCTGGTCCCTTGT-3,4,LOH,LOH: loop of henle,3,WT_3
+8630,CGTTGGGGTTTGTTGG-3,4,LOH,LOH: loop of henle,3,WT_3
+8631,CGTTGGGTCACTTCAT-3,3,PT,PT: proximal tubule,3,WT_3
+8632,CGTTGGGTCCAGAAGG-3,3,PT,PT: proximal tubule,3,WT_3
+8633,CGTTGGGTCTGCTTGC-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8634,CTAACTTAGATCTGCT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8635,CTAACTTCAAGTCTGT-3,3,PT,PT: proximal tubule,3,WT_3
+8636,CTAACTTCATCGACGC-3,4,LOH,LOH: loop of henle,3,WT_3
+8637,CTAACTTTCCCAAGTA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8638,CTAAGACAGACAATAC-3,3,PT,PT: proximal tubule,3,WT_3
+8639,CTAAGACAGCGTTTAC-3,3,PT,PT: proximal tubule,3,WT_3
+8640,CTAAGACCAACACGCC-3,3,PT,PT: proximal tubule,3,WT_3
+8641,CTAAGACCACGACGAA-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8642,CTAAGACGTCTGGTCG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8643,CTAAGACTCTCGCTTG-3,4,LOH,LOH: loop of henle,3,WT_3
+8644,CTAATGGCAAGCCCAC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8645,CTAATGGTCACCCTCA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8646,CTACACCGTAATTGGA-3,3,PT,PT: proximal tubule,3,WT_3
+8647,CTACACCGTAGCGATG-3,3,PT,PT: proximal tubule,3,WT_3
+8648,CTACACCGTGAGGGTT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8649,CTACATTAGAAACCGC-3,3,PT,PT: proximal tubule,3,WT_3
+8650,CTACATTGTGGTCCGT-3,3,PT,PT: proximal tubule,3,WT_3
+8651,CTACATTTCGACCAGC-3,3,PT,PT: proximal tubule,3,WT_3
+8652,CTACCCAAGACGCAAC-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8653,CTACCCAAGTCATGCT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8654,CTACCCAAGTGCGATG-3,4,LOH,LOH: loop of henle,3,WT_3
+8655,CTACCCACACGTCTCT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8656,CTACCCAGTGGTACAG-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8657,CTACGTCCAAACCCAT-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8658,CTACGTCTCGCGTAGC-3,13,B-lymph,B-lymph: B lymphocyte,3,WT_3
+8659,CTAGAGTAGACTGTAA-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8660,CTAGAGTAGTGAACAT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8661,CTAGAGTGTTACCAGT-3,15,NK,NK: natural killer cell,3,WT_3
+8662,CTAGAGTTCATCTGCC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8663,CTAGCCTGTTCTGTTT-3,3,PT,PT: proximal tubule,3,WT_3
+8664,CTAGTGACACTGTCGG-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8665,CTAGTGATCATAGCAC-3,3,PT,PT: proximal tubule,3,WT_3
+8666,CTAGTGATCCTGCCAT-3,4,LOH,LOH: loop of henle,3,WT_3
+8667,CTCACACAGTACACCT-3,4,LOH,LOH: loop of henle,3,WT_3
+8668,CTCACACGTAGCTAAA-3,3,PT,PT: proximal tubule,3,WT_3
+8669,CTCACACGTCTCACCT-3,3,PT,PT: proximal tubule,3,WT_3
+8670,CTCAGAAAGGGAGTAA-3,3,PT,PT: proximal tubule,3,WT_3
+8671,CTCAGAAAGTACATGA-3,3,PT,PT: proximal tubule,3,WT_3
+8672,CTCAGAAGTATAAACG-3,3,PT,PT: proximal tubule,3,WT_3
+8673,CTCAGAAGTTATCGGT-3,3,PT,PT: proximal tubule,3,WT_3
+8674,CTCATTAAGGAGTCTG-3,4,LOH,LOH: loop of henle,3,WT_3
+8675,CTCATTAGTGTGAATA-3,3,PT,PT: proximal tubule,3,WT_3
+8676,CTCCTAGCACAACTGT-3,15,NK,NK: natural killer cell,3,WT_3
+8677,CTCCTAGCAGACGCAA-3,4,LOH,LOH: loop of henle,3,WT_3
+8678,CTCCTAGCATATGCTG-3,15,NK,NK: natural killer cell,3,WT_3
+8679,CTCCTAGTCGAACGGA-3,3,PT,PT: proximal tubule,3,WT_3
+8680,CTCGAAACACAAGCCC-3,3,PT,PT: proximal tubule,3,WT_3
+8681,CTCGAAAGTCACACGC-3,3,PT,PT: proximal tubule,3,WT_3
+8682,CTCGAAATCCGCTGTT-3,3,PT,PT: proximal tubule,3,WT_3
+8683,CTCGAGGAGATGCCTT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8684,CTCGAGGAGCTCCCAG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8685,CTCGAGGAGTCCAGGA-3,3,PT,PT: proximal tubule,3,WT_3
+8686,CTCGAGGGTAAGTAGT-3,3,PT,PT: proximal tubule,3,WT_3
+8687,CTCGAGGGTAGGGTAC-3,3,PT,PT: proximal tubule,3,WT_3
+8688,CTCGAGGGTGGTCTCG-3,3,PT,PT: proximal tubule,3,WT_3
+8689,CTCGAGGTCACCGTAA-3,3,PT,PT: proximal tubule,3,WT_3
+8690,CTCGAGGTCGAGGTAG-3,3,PT,PT: proximal tubule,3,WT_3
+8691,CTCGGAGCAAGTAGTA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8692,CTCGGAGTCGGTCCGA-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8693,CTCGGGAAGAAGGTGA-3,3,PT,PT: proximal tubule,3,WT_3
+8694,CTCGGGAAGCAGACTG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8695,CTCGGGACACTGTGTA-3,10,Fib,Fib: fibroblast,3,WT_3
+8696,CTCGGGATCATGGTCA-3,3,PT,PT: proximal tubule,3,WT_3
+8697,CTCGGGATCCTTGCCA-3,15,NK,NK: natural killer cell,3,WT_3
+8698,CTCGGGATCTGGTTCC-3,3,PT,PT: proximal tubule,3,WT_3
+8699,CTCGTACCACCTCGTT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8700,CTCGTACGTTCCCTTG-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8701,CTCGTCAAGGTACTCT-3,4,LOH,LOH: loop of henle,3,WT_3
+8702,CTCGTCAGTAGGGACT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8703,CTCGTCATCCCTAATT-3,3,PT,PT: proximal tubule,3,WT_3
+8704,CTCGTCATCGTTTATC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8705,CTCTAATGTCCGAGTC-3,3,PT,PT: proximal tubule,3,WT_3
+8706,CTCTAATGTGTCTGAT-3,3,PT,PT: proximal tubule,3,WT_3
+8707,CTCTAATTCGTAGGAG-3,13,B-lymph,B-lymph: B lymphocyte,3,WT_3
+8708,CTCTGGTCACGCCAGT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8709,CTGAAACAGCAACGGT-3,3,PT,PT: proximal tubule,3,WT_3
+8710,CTGAAACGTGCTTCTC-3,3,PT,PT: proximal tubule,3,WT_3
+8711,CTGAAGTAGCTAGTTC-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8712,CTGAAGTAGGCCCTTG-3,3,PT,PT: proximal tubule,3,WT_3
+8713,CTGAAGTAGTCGTTTG-3,3,PT,PT: proximal tubule,3,WT_3
+8714,CTGATAGAGACGCTTT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8715,CTGATAGCAAGCTGAG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8716,CTGATAGCACGACTCG-3,3,PT,PT: proximal tubule,3,WT_3
+8717,CTGATCCCAATGGACG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8718,CTGCCTATCAGAAATG-3,3,PT,PT: proximal tubule,3,WT_3
+8719,CTGCCTATCATAACCG-3,4,LOH,LOH: loop of henle,3,WT_3
+8720,CTGCGGAAGGGTGTTG-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8721,CTGCGGAGTCTTGATG-3,3,PT,PT: proximal tubule,3,WT_3
+8722,CTGCGGATCTCCTATA-3,3,PT,PT: proximal tubule,3,WT_3
+8723,CTGCTGTGTCCCGACA-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8724,CTGCTGTGTCGAGATG-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8725,CTGCTGTGTTTGTTGG-3,9,Novel1,Novel1: novel cell type 1,3,WT_3
+8726,CTGCTGTTCAGCCTAA-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8727,CTGGTCTAGTTTGCGT-3,3,PT,PT: proximal tubule,3,WT_3
+8728,CTGGTCTGTGATGCCC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8729,CTGGTCTGTGCGCTTG-3,13,B-lymph,B-lymph: B lymphocyte,3,WT_3
+8730,CTGGTCTGTTAGAACA-3,15,NK,NK: natural killer cell,3,WT_3
+8731,CTGTGCTCATTTCAGG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8732,CTGTTTAGTGTGCCTG-3,3,PT,PT: proximal tubule,3,WT_3
+8733,CTGTTTATCTGCCAGG-3,3,PT,PT: proximal tubule,3,WT_3
+8734,CTTAACTAGCTTATCG-3,3,PT,PT: proximal tubule,3,WT_3
+8735,CTTAACTAGGCTCATT-3,4,LOH,LOH: loop of henle,3,WT_3
+8736,CTTAACTCACTGCCAG-3,15,NK,NK: natural killer cell,3,WT_3
+8737,CTTAACTGTACGAAAT-3,3,PT,PT: proximal tubule,3,WT_3
+8738,CTTACCGGTAGGAGTC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8739,CTTACCGGTCCATCCT-3,3,PT,PT: proximal tubule,3,WT_3
+8740,CTTACCGTCGAACTGT-3,3,PT,PT: proximal tubule,3,WT_3
+8741,CTTAGGACATCTATGG-3,3,PT,PT: proximal tubule,3,WT_3
+8742,CTTAGGATCATCATTC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8743,CTTCTCTAGACTTTCG-3,3,PT,PT: proximal tubule,3,WT_3
+8744,CTTCTCTAGTAGGTGC-3,3,PT,PT: proximal tubule,3,WT_3
+8745,CTTCTCTAGTCATCCA-3,3,PT,PT: proximal tubule,3,WT_3
+8746,CTTCTCTGTAAGAGAG-3,4,LOH,LOH: loop of henle,3,WT_3
+8747,CTTGGCTAGCGTAGTG-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8748,CTTGGCTCAAGAAAGG-3,3,PT,PT: proximal tubule,3,WT_3
+8749,CTTTGCGAGTCCTCCT-3,3,PT,PT: proximal tubule,3,WT_3
+8750,CTTTGCGGTTCTGGTA-3,4,LOH,LOH: loop of henle,3,WT_3
+8751,GAAACTCAGATAGTCA-3,3,PT,PT: proximal tubule,3,WT_3
+8752,GAAACTCAGCTCCTCT-3,3,PT,PT: proximal tubule,3,WT_3
+8753,GAAACTCAGTTCGATC-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8754,GAAACTCCAATAGCAA-3,4,LOH,LOH: loop of henle,3,WT_3
+8755,GAAACTCCATAGAAAC-3,3,PT,PT: proximal tubule,3,WT_3
+8756,GAAACTCTCCGCAGTG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8757,GAAACTCTCGCTGATA-3,3,PT,PT: proximal tubule,3,WT_3
+8758,GAAACTCTCTGCCAGG-3,3,PT,PT: proximal tubule,3,WT_3
+8759,GAAATGAAGACAGACC-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8760,GAAATGAAGTAGTGCG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8761,GAAATGAAGTCCCACG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8762,GAAATGACAAATACAG-3,3,PT,PT: proximal tubule,3,WT_3
+8763,GAAATGATCCACGAAT-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8764,GAACATCAGACGCAAC-3,3,PT,PT: proximal tubule,3,WT_3
+8765,GAACATCAGGACAGCT-3,3,PT,PT: proximal tubule,3,WT_3
+8766,GAACATCCAACACCTA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8767,GAACATCCAGCCACCA-3,4,LOH,LOH: loop of henle,3,WT_3
+8768,GAACATCCAGCTGGCT-3,15,NK,NK: natural killer cell,3,WT_3
+8769,GAACCTAAGCGCCTCA-3,3,PT,PT: proximal tubule,3,WT_3
+8770,GAACGGATCCTTCAAT-3,3,PT,PT: proximal tubule,3,WT_3
+8771,GAACGGATCGGAAACG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8772,GAAGCAGGTGCAGGTA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8773,GAAGCAGGTTCCGTCT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8774,GAATAAGGTACCAGTT-3,4,LOH,LOH: loop of henle,3,WT_3
+8775,GAATAAGTCCTACAGA-3,15,NK,NK: natural killer cell,3,WT_3
+8776,GAATGAAGTTATCGGT-3,3,PT,PT: proximal tubule,3,WT_3
+8777,GACACGCCAAGTAATG-3,3,PT,PT: proximal tubule,3,WT_3
+8778,GACAGAGAGGAATCGC-3,3,PT,PT: proximal tubule,3,WT_3
+8779,GACAGAGCATCAGTCA-3,3,PT,PT: proximal tubule,3,WT_3
+8780,GACAGAGTCCAAACTG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8781,GACAGAGTCTTGAGAC-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8782,GACCAATAGACAGAGA-3,3,PT,PT: proximal tubule,3,WT_3
+8783,GACCAATCATTCACTT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8784,GACCTGGCAATGCCAT-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8785,GACCTGGCAGATTGCT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8786,GACCTGGTCGCAAGCC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8787,GACCTGGTCGCTGATA-3,4,LOH,LOH: loop of henle,3,WT_3
+8788,GACGGCTCATGCAACT-3,3,PT,PT: proximal tubule,3,WT_3
+8789,GACGGCTTCAGAAATG-3,3,PT,PT: proximal tubule,3,WT_3
+8790,GACGGCTTCATGTAGC-3,3,PT,PT: proximal tubule,3,WT_3
+8791,GACGTGCGTTCAGGCC-3,3,PT,PT: proximal tubule,3,WT_3
+8792,GACGTGCTCCGCAAGC-3,11,Marco,Macro: macrophage,3,WT_3
+8793,GACGTTAGTTCCAACA-3,4,LOH,LOH: loop of henle,3,WT_3
+8794,GACGTTAGTTCGGCAC-3,4,LOH,LOH: loop of henle,3,WT_3
+8795,GACGTTATCCTCTAGC-3,3,PT,PT: proximal tubule,3,WT_3
+8796,GACGTTATCGGTTCGG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8797,GACTAACAGCGAGAAA-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8798,GACTAACAGCTCCCAG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8799,GACTAACCACACATGT-3,3,PT,PT: proximal tubule,3,WT_3
+8800,GACTAACCATACTACG-3,3,PT,PT: proximal tubule,3,WT_3
+8801,GACTAACGTTACTGAC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8802,GACTACACAAGTCTGT-3,3,PT,PT: proximal tubule,3,WT_3
+8803,GACTACAGTCACTGGC-3,3,PT,PT: proximal tubule,3,WT_3
+8804,GACTACAGTGGTCTCG-3,3,PT,PT: proximal tubule,3,WT_3
+8805,GACTGCGAGGTGACCA-3,3,PT,PT: proximal tubule,3,WT_3
+8806,GACTGCGCAACCGCCA-3,13,B-lymph,B-lymph: B lymphocyte,3,WT_3
+8807,GACTGCGCAAGGCTCC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8808,GACTGCGCACCATCCT-3,3,PT,PT: proximal tubule,3,WT_3
+8809,GACTGCGGTATTCGTG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8810,GAGCAGAGTCCAGTAT-3,3,PT,PT: proximal tubule,3,WT_3
+8811,GAGCAGATCAGCATGT-3,3,PT,PT: proximal tubule,3,WT_3
+8812,GAGCAGATCTTCTGGC-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8813,GAGGTGAGTCGCGAAA-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8814,GAGGTGAGTGACCAAG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8815,GAGGTGATCCTCGCAT-3,3,PT,PT: proximal tubule,3,WT_3
+8816,GAGGTGATCTGCAAGT-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8817,GAGTCCGAGGAATGGA-3,3,PT,PT: proximal tubule,3,WT_3
+8818,GAGTCCGGTGCAACGA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8819,GAGTCCGTCAAAGTAG-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8820,GATCAGTTCTATGTGG-3,4,LOH,LOH: loop of henle,3,WT_3
+8821,GATCGATAGTGTCCAT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8822,GATCGATCAAGGACTG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8823,GATCGATTCAGCTTAG-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8824,GATCGCGCACAACGTT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8825,GATCGCGGTGTTTGTG-3,4,LOH,LOH: loop of henle,3,WT_3
+8826,GATCGCGTCCTTGCCA-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8827,GATCGTACAAGCTGTT-3,6,CD-PC,CD-PC: collecting duct principal cell,3,WT_3
+8828,GATCGTACACCTCGTT-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8829,GATCGTAGTAAGTAGT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8830,GATCGTAGTGACAAAT-3,3,PT,PT: proximal tubule,3,WT_3
+8831,GATCGTAGTGGCGAAT-3,3,PT,PT: proximal tubule,3,WT_3
+8832,GATCGTATCCCAGGTG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8833,GATCTAGAGACCTTTG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8834,GATCTAGAGACGCTTT-3,3,PT,PT: proximal tubule,3,WT_3
+8835,GATCTAGGTAGTGAAT-3,4,LOH,LOH: loop of henle,3,WT_3
+8836,GATGAAAGTGTTTGTG-3,3,PT,PT: proximal tubule,3,WT_3
+8837,GATGAGGCAATGACCT-3,3,PT,PT: proximal tubule,3,WT_3
+8838,GATGCTAAGAACAACT-3,3,PT,PT: proximal tubule,3,WT_3
+8839,GATGCTAAGGGTGTTG-3,4,LOH,LOH: loop of henle,3,WT_3
+8840,GATGCTAAGTTAGCGG-3,3,PT,PT: proximal tubule,3,WT_3
+8841,GATGCTAGTCAAGCGA-3,4,LOH,LOH: loop of henle,3,WT_3
+8842,GATGCTAGTGGTCTCG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8843,GATGCTAGTTACTGAC-3,3,PT,PT: proximal tubule,3,WT_3
+8844,GATTCAGCAACTGGCC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8845,GCAAACTAGCCTATGT-3,3,PT,PT: proximal tubule,3,WT_3
+8846,GCAAACTCAGGAACGT-3,4,LOH,LOH: loop of henle,3,WT_3
+8847,GCAAACTGTCCGTTAA-3,3,PT,PT: proximal tubule,3,WT_3
+8848,GCAAACTGTTATCGGT-3,3,PT,PT: proximal tubule,3,WT_3
+8849,GCAATCACAGCCTATA-3,3,PT,PT: proximal tubule,3,WT_3
+8850,GCAATCATCAATCTCT-3,3,PT,PT: proximal tubule,3,WT_3
+8851,GCAATCATCCCAACGG-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8852,GCAATCATCCGCAGTG-3,3,PT,PT: proximal tubule,3,WT_3
+8853,GCACTCTAGCAGCGTA-3,3,PT,PT: proximal tubule,3,WT_3
+8854,GCACTCTAGTGACTCT-3,15,NK,NK: natural killer cell,3,WT_3
+8855,GCACTCTCATACAGCT-3,3,PT,PT: proximal tubule,3,WT_3
+8856,GCAGTTAAGAGGTTGC-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8857,GCAGTTACACAACGCC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8858,GCAGTTAGTAGATTAG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8859,GCAGTTAGTTGCGCAC-3,3,PT,PT: proximal tubule,3,WT_3
+8860,GCAGTTATCGTTTGCC-3,4,LOH,LOH: loop of henle,3,WT_3
+8861,GCATACATCACGATGT-3,3,PT,PT: proximal tubule,3,WT_3
+8862,GCATGATAGCGATAGC-3,3,PT,PT: proximal tubule,3,WT_3
+8863,GCATGATAGTAAGTAC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8864,GCATGATCATTTCAGG-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8865,GCATGATTCCATGAGT-3,3,PT,PT: proximal tubule,3,WT_3
+8866,GCATGATTCGTCCGTT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8867,GCATGATTCTAGAGTC-3,3,PT,PT: proximal tubule,3,WT_3
+8868,GCATGCGGTACGCTGC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8869,GCATGTAAGTAGCCGA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8870,GCATGTAGTCGACTGC-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8871,GCCAAATAGGGTGTGT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8872,GCCAAATTCAAAGACA-3,4,LOH,LOH: loop of henle,3,WT_3
+8873,GCCTCTAAGCTAACAA-3,3,PT,PT: proximal tubule,3,WT_3
+8874,GCCTCTAGTCAAAGAT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8875,GCCTCTATCAGGCCCA-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8876,GCCTCTATCCTTAATC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8877,GCCTCTATCGGACAAG-3,3,PT,PT: proximal tubule,3,WT_3
+8878,GCGACCAAGCTGCAAG-3,4,LOH,LOH: loop of henle,3,WT_3
+8879,GCGACCACACGGTTTA-3,3,PT,PT: proximal tubule,3,WT_3
+8880,GCGACCACAGGCTGAA-3,3,PT,PT: proximal tubule,3,WT_3
+8881,GCGACCATCCCTCTTT-3,3,PT,PT: proximal tubule,3,WT_3
+8882,GCGACCATCGACAGCC-3,4,LOH,LOH: loop of henle,3,WT_3
+8883,GCGAGAACATCCAACA-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8884,GCGAGAAGTCGGCACT-3,15,NK,NK: natural killer cell,3,WT_3
+8885,GCGAGAATCCACGAAT-3,4,LOH,LOH: loop of henle,3,WT_3
+8886,GCGAGAATCTGTCTCG-3,3,PT,PT: proximal tubule,3,WT_3
+8887,GCGCAACCATTAACCG-3,2,Podo,Podo: podocyte,3,WT_3
+8888,GCGCAGTAGTGGAGTC-3,4,LOH,LOH: loop of henle,3,WT_3
+8889,GCGCAGTTCACTGGGC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8890,GCGCCAAAGCCGGTAA-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8891,GCGCCAAAGTCCGTAT-3,3,PT,PT: proximal tubule,3,WT_3
+8892,GCGCCAACAACTTGAC-3,3,PT,PT: proximal tubule,3,WT_3
+8893,GCGCCAACATCTCGCT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8894,GCGCCAAGTTAGGGTG-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8895,GCGCGATTCTCTAGGA-3,3,PT,PT: proximal tubule,3,WT_3
+8896,GCGGGTTAGACTTGAA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8897,GCGGGTTAGCTACCGC-3,3,PT,PT: proximal tubule,3,WT_3
+8898,GCGGGTTCAGTCAGAG-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8899,GCGGGTTTCTGCTTGC-3,3,PT,PT: proximal tubule,3,WT_3
+8900,GCTCCTAGTCAATGTC-3,3,PT,PT: proximal tubule,3,WT_3
+8901,GCTCCTAGTCGTTGTA-3,3,PT,PT: proximal tubule,3,WT_3
+8902,GCTCTGTAGATCACGG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8903,GCTCTGTAGTACGATA-3,3,PT,PT: proximal tubule,3,WT_3
+8904,GCTGCAGAGTCAAGGC-3,3,PT,PT: proximal tubule,3,WT_3
+8905,GCTGCAGCAGGTCCAC-3,3,PT,PT: proximal tubule,3,WT_3
+8906,GCTGCAGGTCCCGACA-3,15,NK,NK: natural killer cell,3,WT_3
+8907,GCTGCAGGTTGATTCG-3,3,PT,PT: proximal tubule,3,WT_3
+8908,GCTGCAGTCGCACTCT-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8909,GCTGCGAAGACTCGGA-3,3,PT,PT: proximal tubule,3,WT_3
+8910,GCTGCGAAGATACACA-3,3,PT,PT: proximal tubule,3,WT_3
+8911,GCTGCGATCCTTAATC-3,3,PT,PT: proximal tubule,3,WT_3
+8912,GCTGCGATCGATAGAA-3,3,PT,PT: proximal tubule,3,WT_3
+8913,GCTGCTTAGTACGCCC-3,4,LOH,LOH: loop of henle,3,WT_3
+8914,GCTGGGTAGTGTGGCA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8915,GCTGGGTTCGAGAACG-3,4,LOH,LOH: loop of henle,3,WT_3
+8916,GCTTCCAAGAATTCCC-3,3,PT,PT: proximal tubule,3,WT_3
+8917,GCTTCCACACCCATTC-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8918,GCTTGAAAGCGATATA-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8919,GCTTGAACAATAGCAA-3,4,LOH,LOH: loop of henle,3,WT_3
+8920,GCTTGAACACAACTGT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8921,GGAAAGCAGCTGCAAG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8922,GGAACTTCATAAAGGT-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8923,GGAATAAAGATAGTCA-3,11,Marco,Macro: macrophage,3,WT_3
+8924,GGAATAAGTTCGCTAA-3,4,LOH,LOH: loop of henle,3,WT_3
+8925,GGACAAGAGCCACGTC-3,3,PT,PT: proximal tubule,3,WT_3
+8926,GGACAAGCACCGCTAG-3,3,PT,PT: proximal tubule,3,WT_3
+8927,GGACAAGCACGGTTTA-3,4,LOH,LOH: loop of henle,3,WT_3
+8928,GGACAAGTCTTCAACT-3,4,LOH,LOH: loop of henle,3,WT_3
+8929,GGACAGAAGAATCTCC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8930,GGACAGACAATCGGTT-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8931,GGACATTCACCTTGTC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8932,GGACATTGTGTTGAGG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8933,GGACATTTCACCGTAA-3,3,PT,PT: proximal tubule,3,WT_3
+8934,GGACATTTCGTAGGTT-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8935,GGACGTCGTTCGAATC-3,3,PT,PT: proximal tubule,3,WT_3
+8936,GGACGTCTCCAACCAA-3,3,PT,PT: proximal tubule,3,WT_3
+8937,GGACGTCTCGGTCCGA-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8938,GGAGCAAAGACTAAGT-3,3,PT,PT: proximal tubule,3,WT_3
+8939,GGAGCAAAGAGATGAG-3,4,LOH,LOH: loop of henle,3,WT_3
+8940,GGAGCAAAGAGGTACC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8941,GGAGCAACAGTAACGG-3,3,PT,PT: proximal tubule,3,WT_3
+8942,GGAGCAACATCAGTCA-3,10,Fib,Fib: fibroblast,3,WT_3
+8943,GGAGCAAGTTACGGAG-3,3,PT,PT: proximal tubule,3,WT_3
+8944,GGAGCAATCGCCGTGA-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8945,GGATGTTGTACAGCAG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8946,GGATGTTTCAGCTCGG-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8947,GGATTACAGACGCACA-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8948,GGATTACAGCTGCAAG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8949,GGATTACAGTGTGGCA-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8950,GGCAATTAGAGGTAGA-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8951,GGCAATTAGTGGAGAA-3,6,CD-PC,CD-PC: collecting duct principal cell,3,WT_3
+8952,GGCAATTTCCACGTTC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8953,GGCAATTTCTAACCGA-3,4,LOH,LOH: loop of henle,3,WT_3
+8954,GGCCGATCATGGAATA-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8955,GGCCGATGTCTAGCCG-3,4,LOH,LOH: loop of henle,3,WT_3
+8956,GGCGACTAGTAGTGCG-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8957,GGCGACTAGTCGATAA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8958,GGCGACTGTAGAAGGA-3,3,PT,PT: proximal tubule,3,WT_3
+8959,GGCGACTGTTGCTCCT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8960,GGCGTGTAGTCTTGCA-3,4,LOH,LOH: loop of henle,3,WT_3
+8961,GGCGTGTCAAGTTCTG-3,3,PT,PT: proximal tubule,3,WT_3
+8962,GGCTCGACAGGCGATA-3,3,PT,PT: proximal tubule,3,WT_3
+8963,GGCTGGTCACGGCTAC-3,4,LOH,LOH: loop of henle,3,WT_3
+8964,GGGAATGAGGTGACCA-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8965,GGGAATGAGTAAGTAC-3,15,NK,NK: natural killer cell,3,WT_3
+8966,GGGAATGCAGTTTACG-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8967,GGGAATGGTTCGAATC-3,3,PT,PT: proximal tubule,3,WT_3
+8968,GGGACCTCAATGGATA-3,3,PT,PT: proximal tubule,3,WT_3
+8969,GGGACCTGTACGACCC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8970,GGGACCTGTGAGGGAG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8971,GGGAGATAGATACACA-3,3,PT,PT: proximal tubule,3,WT_3
+8972,GGGAGATTCAACGAAA-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8973,GGGAGATTCACATAGC-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8974,GGGAGATTCGAGAGCA-3,3,PT,PT: proximal tubule,3,WT_3
+8975,GGGAGATTCTGGGCCA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8976,GGGATGAAGAATAGGG-3,4,LOH,LOH: loop of henle,3,WT_3
+8977,GGGATGAAGGAATCGC-3,3,PT,PT: proximal tubule,3,WT_3
+8978,GGGCACTAGGTGACCA-3,3,PT,PT: proximal tubule,3,WT_3
+8979,GGGCACTGTCGACTGC-3,15,NK,NK: natural killer cell,3,WT_3
+8980,GGGCACTGTGCATCTA-3,3,PT,PT: proximal tubule,3,WT_3
+8981,GGGCACTTCGTACCGG-3,3,PT,PT: proximal tubule,3,WT_3
+8982,GGGCATCAGGATTCGG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8983,GGGCATCCAAGTCTAC-3,4,LOH,LOH: loop of henle,3,WT_3
+8984,GGGCATCCAGCCAATT-3,3,PT,PT: proximal tubule,3,WT_3
+8985,GGGCATCTCTGCTGTC-3,3,PT,PT: proximal tubule,3,WT_3
+8986,GGGTCTGAGGGCTTGA-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8987,GGGTCTGGTCGACTAT-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8988,GGGTCTGTCATCGATG-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+8989,GGGTTGCAGCGATGAC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8990,GGGTTGCCAACACCTA-3,3,PT,PT: proximal tubule,3,WT_3
+8991,GGGTTGCCATTATCTC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+8992,GGGTTGCTCCTCGCAT-3,3,PT,PT: proximal tubule,3,WT_3
+8993,GGTATTGGTGAGGGTT-3,3,PT,PT: proximal tubule,3,WT_3
+8994,GGTATTGGTGTTTGGT-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+8995,GGTGAAGGTTAGATGA-3,3,PT,PT: proximal tubule,3,WT_3
+8996,GGTGAAGTCATAACCG-3,3,PT,PT: proximal tubule,3,WT_3
+8997,GGTGCGTAGACAAGCC-3,3,PT,PT: proximal tubule,3,WT_3
+8998,GGTGCGTAGCCAACAG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+8999,GGTGCGTCATCCGGGT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9000,GGTGCGTTCACAATGC-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+9001,GGTGTTAAGCGATATA-3,3,PT,PT: proximal tubule,3,WT_3
+9002,GGTGTTACACACCGAC-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+9003,GGTGTTAGTGTGCGTC-3,3,PT,PT: proximal tubule,3,WT_3
+9004,GGTGTTATCAGGATCT-3,3,PT,PT: proximal tubule,3,WT_3
+9005,GTAACGTCACAACTGT-3,3,PT,PT: proximal tubule,3,WT_3
+9006,GTAACGTCATCACGTA-3,3,PT,PT: proximal tubule,3,WT_3
+9007,GTAACGTGTCTGCCAG-3,3,PT,PT: proximal tubule,3,WT_3
+9008,GTAACGTGTTGCGCAC-3,3,PT,PT: proximal tubule,3,WT_3
+9009,GTAACGTTCGCGCCAA-3,3,PT,PT: proximal tubule,3,WT_3
+9010,GTAACTGAGACTTTCG-3,3,PT,PT: proximal tubule,3,WT_3
+9011,GTAACTGAGAGGTACC-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+9012,GTACGTACAGTGGAGT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9013,GTACGTAGTTCAGGCC-3,3,PT,PT: proximal tubule,3,WT_3
+9014,GTACTCCAGCTAAACA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9015,GTACTCCAGTCCTCCT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9016,GTACTCCGTGCGAAAC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9017,GTACTCCGTTCGGGCT-3,3,PT,PT: proximal tubule,3,WT_3
+9018,GTACTCCTCAAGGTAA-3,3,PT,PT: proximal tubule,3,WT_3
+9019,GTACTTTAGAAAGTGG-3,6,CD-PC,CD-PC: collecting duct principal cell,3,WT_3
+9020,GTACTTTGTTCGAATC-3,3,PT,PT: proximal tubule,3,WT_3
+9021,GTAGGCCAGTGGTCCC-3,3,PT,PT: proximal tubule,3,WT_3
+9022,GTAGGCCGTATAAACG-3,3,PT,PT: proximal tubule,3,WT_3
+9023,GTAGGCCTCTGCTGTC-3,3,PT,PT: proximal tubule,3,WT_3
+9024,GTAGTCACATAGTAAG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9025,GTAGTCAGTAGCCTAT-3,3,PT,PT: proximal tubule,3,WT_3
+9026,GTAGTCAGTCCTCCAT-3,3,PT,PT: proximal tubule,3,WT_3
+9027,GTAGTCAGTGAACCTT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9028,GTAGTCAGTGTGGTTT-3,3,PT,PT: proximal tubule,3,WT_3
+9029,GTAGTCAGTTCCCTTG-3,3,PT,PT: proximal tubule,3,WT_3
+9030,GTATTCTGTCTGATTG-3,4,LOH,LOH: loop of henle,3,WT_3
+9031,GTATTCTGTTGCGCAC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9032,GTCAAGTAGCTATGCT-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+9033,GTCAAGTCAGCATGAG-3,15,NK,NK: natural killer cell,3,WT_3
+9034,GTCACAAAGATGTGGC-3,3,PT,PT: proximal tubule,3,WT_3
+9035,GTCACAAAGTTGCAGG-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+9036,GTCACAATCACATAGC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9037,GTCACAATCGCCATAA-3,3,PT,PT: proximal tubule,3,WT_3
+9038,GTCACGGAGGCGTACA-3,15,NK,NK: natural killer cell,3,WT_3
+9039,GTCATTTTCCCTTGCA-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+9040,GTCCTCACATATACGC-3,3,PT,PT: proximal tubule,3,WT_3
+9041,GTCCTCAGTCCTGCTT-3,3,PT,PT: proximal tubule,3,WT_3
+9042,GTCGGGTAGCTAAACA-3,3,PT,PT: proximal tubule,3,WT_3
+9043,GTCGGGTGTTGTCTTT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9044,GTCGGGTTCACCTCGT-3,4,LOH,LOH: loop of henle,3,WT_3
+9045,GTCTCGTAGACTACAA-3,3,PT,PT: proximal tubule,3,WT_3
+9046,GTCTCGTTCTTGTTTG-3,3,PT,PT: proximal tubule,3,WT_3
+9047,GTCTTCGAGGTACTCT-3,3,PT,PT: proximal tubule,3,WT_3
+9048,GTCTTCGAGTGAACGC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9049,GTCTTCGCATTCACTT-3,3,PT,PT: proximal tubule,3,WT_3
+9050,GTCTTCGGTACCAGTT-3,3,PT,PT: proximal tubule,3,WT_3
+9051,GTGCAGCTCCGCAAGC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9052,GTGCATATCTAGAGTC-3,3,PT,PT: proximal tubule,3,WT_3
+9053,GTGCGGTCAGGATCGA-3,3,PT,PT: proximal tubule,3,WT_3
+9054,GTGCGGTGTAATAGCA-3,4,LOH,LOH: loop of henle,3,WT_3
+9055,GTGCTTCAGGACATTA-3,3,PT,PT: proximal tubule,3,WT_3
+9056,GTGCTTCCACCGCTAG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9057,GTGCTTCCATCACAAC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9058,GTGGGTCCAAGTAATG-3,3,PT,PT: proximal tubule,3,WT_3
+9059,GTGGGTCGTAGTAGTA-3,4,LOH,LOH: loop of henle,3,WT_3
+9060,GTGGGTCTCTCTAAGG-3,3,PT,PT: proximal tubule,3,WT_3
+9061,GTGTGCGCAAGTCTAC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9062,GTTAAGCGTCTCCCTA-3,3,PT,PT: proximal tubule,3,WT_3
+9063,GTTAAGCTCTCTAAGG-3,3,PT,PT: proximal tubule,3,WT_3
+9064,GTTACAGCACCACGTG-3,15,NK,NK: natural killer cell,3,WT_3
+9065,GTTACAGCATTGGCGC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9066,GTTACAGGTACGAAAT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9067,GTTACAGTCAGCTGGC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9068,GTTACAGTCAGGTAAA-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+9069,GTTCATTAGCCCTAAT-3,4,LOH,LOH: loop of henle,3,WT_3
+9070,GTTCATTGTAGGGTAC-3,4,LOH,LOH: loop of henle,3,WT_3
+9071,GTTCGGGCAGGGATTG-3,15,NK,NK: natural killer cell,3,WT_3
+9072,GTTCTCGCAAGTAGTA-3,4,LOH,LOH: loop of henle,3,WT_3
+9073,GTTCTCGGTCAACATC-3,4,LOH,LOH: loop of henle,3,WT_3
+9074,GTTCTCGGTTCGAATC-3,3,PT,PT: proximal tubule,3,WT_3
+9075,GTTTCTAAGAGTACCG-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+9076,GTTTCTAAGGTTCCTA-3,3,PT,PT: proximal tubule,3,WT_3
+9077,GTTTCTAGTAAGAGAG-3,3,PT,PT: proximal tubule,3,WT_3
+9078,TAAACCGCAGTGACAG-3,3,PT,PT: proximal tubule,3,WT_3
+9079,TAAACCGGTGTGGCTC-3,4,LOH,LOH: loop of henle,3,WT_3
+9080,TAAACCGTCCTTGGTC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9081,TAAACCGTCGCTAGCG-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+9082,TAAACCGTCTCCTATA-3,3,PT,PT: proximal tubule,3,WT_3
+9083,TAAGAGACAATGGAGC-3,3,PT,PT: proximal tubule,3,WT_3
+9084,TAAGAGAGTGTGTGCC-3,4,LOH,LOH: loop of henle,3,WT_3
+9085,TAAGAGAGTTTAGCTG-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+9086,TAAGCGTCACCTCGGA-3,3,PT,PT: proximal tubule,3,WT_3
+9087,TAAGCGTGTGTCTGAT-3,3,PT,PT: proximal tubule,3,WT_3
+9088,TAAGTGCAGTTTCCTT-3,4,LOH,LOH: loop of henle,3,WT_3
+9089,TAAGTGCGTCACTTCC-3,3,PT,PT: proximal tubule,3,WT_3
+9090,TAAGTGCTCGGCGGTT-3,3,PT,PT: proximal tubule,3,WT_3
+9091,TACACGACAACGCACC-3,3,PT,PT: proximal tubule,3,WT_3
+9092,TACACGAGTATCACCA-3,3,PT,PT: proximal tubule,3,WT_3
+9093,TACACGAGTCGCATAT-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+9094,TACACGATCCAGGGCT-3,4,LOH,LOH: loop of henle,3,WT_3
+9095,TACAGTGAGACATAAC-3,3,PT,PT: proximal tubule,3,WT_3
+9096,TACAGTGAGACTAAGT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9097,TACAGTGCAACCGCCA-3,3,PT,PT: proximal tubule,3,WT_3
+9098,TACAGTGTCCTATTCA-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+9099,TACCTATGTATGGTTC-3,4,LOH,LOH: loop of henle,3,WT_3
+9100,TACCTTACAAGGACTG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9101,TACCTTACATCTCCCA-3,3,PT,PT: proximal tubule,3,WT_3
+9102,TACCTTAGTACAGCAG-3,3,PT,PT: proximal tubule,3,WT_3
+9103,TACGGATAGGTGACCA-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+9104,TACGGATCAACACGCC-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+9105,TACGGATGTCGCTTCT-3,15,NK,NK: natural killer cell,3,WT_3
+9106,TACGGATGTTGTCTTT-3,15,NK,NK: natural killer cell,3,WT_3
+9107,TACGGGCAGCGACGTA-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9108,TACGGGCAGGAGTCTG-3,3,PT,PT: proximal tubule,3,WT_3
+9109,TACGGGCCAAGCGAGT-3,10,Fib,Fib: fibroblast,3,WT_3
+9110,TACGGGCTCAATAAGG-3,3,PT,PT: proximal tubule,3,WT_3
+9111,TACGGGCTCAGTGTTG-3,3,PT,PT: proximal tubule,3,WT_3
+9112,TACGGGCTCCCATTAT-3,3,PT,PT: proximal tubule,3,WT_3
+9113,TACGGTACAGCGTTCG-3,3,PT,PT: proximal tubule,3,WT_3
+9114,TACGGTAGTTAAGAAC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9115,TACGGTATCAGCACAT-3,3,PT,PT: proximal tubule,3,WT_3
+9116,TACTCATAGTGTCCAT-3,4,LOH,LOH: loop of henle,3,WT_3
+9117,TACTCATGTAAACACA-3,3,PT,PT: proximal tubule,3,WT_3
+9118,TACTCATTCCTTCAAT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9119,TACTCATTCTTAACCT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9120,TACTCGCAGCCAGAAC-3,13,B-lymph,B-lymph: B lymphocyte,3,WT_3
+9121,TACTCGCAGGAGTACC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9122,TACTCGCCACGTTGGC-3,4,LOH,LOH: loop of henle,3,WT_3
+9123,TACTCGCGTAAAGTCA-3,15,NK,NK: natural killer cell,3,WT_3
+9124,TACTCGCGTACGAAAT-3,4,LOH,LOH: loop of henle,3,WT_3
+9125,TACTCGCGTAGCGATG-3,3,PT,PT: proximal tubule,3,WT_3
+9126,TACTCGCTCCCAGGTG-3,3,PT,PT: proximal tubule,3,WT_3
+9127,TACTTACAGTGTGAAT-3,3,PT,PT: proximal tubule,3,WT_3
+9128,TACTTACCACATTAGC-3,4,LOH,LOH: loop of henle,3,WT_3
+9129,TACTTACTCGGAAATA-3,3,PT,PT: proximal tubule,3,WT_3
+9130,TACTTGTCAATCTACG-3,3,PT,PT: proximal tubule,3,WT_3
+9131,TACTTGTCACGGCTAC-3,3,PT,PT: proximal tubule,3,WT_3
+9132,TACTTGTTCCGATATG-3,4,LOH,LOH: loop of henle,3,WT_3
+9133,TACTTGTTCTACCTGC-3,3,PT,PT: proximal tubule,3,WT_3
+9134,TACTTGTTCTGTCTAT-3,3,PT,PT: proximal tubule,3,WT_3
+9135,TAGACCATCCTTGCCA-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9136,TAGAGCTCACATCCGG-3,3,PT,PT: proximal tubule,3,WT_3
+9137,TAGAGCTTCAGCTTAG-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+9138,TAGCCGGAGATCCCGC-3,3,PT,PT: proximal tubule,3,WT_3
+9139,TAGCCGGAGATGTCGG-3,3,PT,PT: proximal tubule,3,WT_3
+9140,TAGCCGGAGTCGCCGT-3,3,PT,PT: proximal tubule,3,WT_3
+9141,TAGCCGGCACGCGAAA-3,4,LOH,LOH: loop of henle,3,WT_3
+9142,TAGGCATCAACACGCC-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+9143,TAGTGGTAGAATTCCC-3,3,PT,PT: proximal tubule,3,WT_3
+9144,TAGTGGTTCAGTTAGC-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+9145,TAGTTGGAGTCTTGCA-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9146,TAGTTGGTCGGACAAG-3,3,PT,PT: proximal tubule,3,WT_3
+9147,TATCAGGAGTCATCCA-3,3,PT,PT: proximal tubule,3,WT_3
+9148,TATCAGGCACCACCAG-3,3,PT,PT: proximal tubule,3,WT_3
+9149,TATCAGGGTGGTAACG-3,3,PT,PT: proximal tubule,3,WT_3
+9150,TATCTCACAAACTGCT-3,4,LOH,LOH: loop of henle,3,WT_3
+9151,TATCTCATCCACTCCA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9152,TATCTCATCGTGACAT-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+9153,TATGCCCAGACAGAGA-3,3,PT,PT: proximal tubule,3,WT_3
+9154,TATGCCCGTAAACACA-3,10,Fib,Fib: fibroblast,3,WT_3
+9155,TATGCCCTCCGCGGTA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9156,TATGCCCTCTTAACCT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9157,TATTACCTCGTAGATC-3,3,PT,PT: proximal tubule,3,WT_3
+9158,TCAATCTAGAAGGGTA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9159,TCAATCTAGGCATGGT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9160,TCAATCTCAAGCCCAC-3,3,PT,PT: proximal tubule,3,WT_3
+9161,TCAATCTCATGGTCTA-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+9162,TCAATCTGTTCAGACT-3,3,PT,PT: proximal tubule,3,WT_3
+9163,TCACAAGCAATCTGCA-3,3,PT,PT: proximal tubule,3,WT_3
+9164,TCACAAGTCGTCTGAA-3,15,NK,NK: natural killer cell,3,WT_3
+9165,TCACGAAAGATGGGTC-3,3,PT,PT: proximal tubule,3,WT_3
+9166,TCAGATGCAGCCTATA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9167,TCAGCAACACCGATAT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9168,TCAGCAACATCACGAT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9169,TCAGCAACATCCCATC-3,3,PT,PT: proximal tubule,3,WT_3
+9170,TCAGCTCAGAGCTGGT-3,3,PT,PT: proximal tubule,3,WT_3
+9171,TCAGCTCAGCTACCGC-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+9172,TCAGCTCCATCACGAT-3,3,PT,PT: proximal tubule,3,WT_3
+9173,TCAGCTCGTCCTCCAT-3,3,PT,PT: proximal tubule,3,WT_3
+9174,TCAGGTAAGTCCCACG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9175,TCAGGTACAAGCCGTC-3,8,CD-Tran,CD-Trans: CD transient cell,3,WT_3
+9176,TCAGGTACACTGTCGG-3,3,PT,PT: proximal tubule,3,WT_3
+9177,TCAGGTAGTCACTGGC-3,3,PT,PT: proximal tubule,3,WT_3
+9178,TCATTACAGCATGGCA-3,3,PT,PT: proximal tubule,3,WT_3
+9179,TCATTACCAAGAGTCG-3,3,PT,PT: proximal tubule,3,WT_3
+9180,TCATTTGAGTGACATA-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+9181,TCATTTGCAGACGCTC-3,3,PT,PT: proximal tubule,3,WT_3
+9182,TCATTTGCAGTAAGCG-3,3,PT,PT: proximal tubule,3,WT_3
+9183,TCATTTGCATGCTAGT-3,13,B-lymph,B-lymph: B lymphocyte,3,WT_3
+9184,TCATTTGTCTGGAGCC-3,10,Fib,Fib: fibroblast,3,WT_3
+9185,TCCACACAGACTTTCG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9186,TCCCGATGTGCGATAG-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+9187,TCGAGGCGTGGGTATG-3,4,LOH,LOH: loop of henle,3,WT_3
+9188,TCGCGAGAGAATAGGG-3,3,PT,PT: proximal tubule,3,WT_3
+9189,TCGCGAGAGTCCGGTC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9190,TCGCGAGGTTTGTGTG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9191,TCGCGAGTCGAATGCT-3,15,NK,NK: natural killer cell,3,WT_3
+9192,TCGCGTTAGAGGTAGA-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+9193,TCGGGACAGGTGCTTT-3,3,PT,PT: proximal tubule,3,WT_3
+9194,TCGGGACCACATAACC-3,3,PT,PT: proximal tubule,3,WT_3
+9195,TCGGGACGTGCACGAA-3,3,PT,PT: proximal tubule,3,WT_3
+9196,TCGGTAACATACGCCG-3,15,NK,NK: natural killer cell,3,WT_3
+9197,TCGGTAAGTAGCTCCG-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+9198,TCGGTAAGTGATGTGG-3,15,NK,NK: natural killer cell,3,WT_3
+9199,TCGGTAATCCTCAATT-3,15,NK,NK: natural killer cell,3,WT_3
+9200,TCGTACCAGTTTAGGA-3,4,LOH,LOH: loop of henle,3,WT_3
+9201,TCGTAGAAGAGAGCTC-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+9202,TCGTAGACAAGGGTCA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9203,TCGTAGATCATTTGGG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9204,TCGTAGATCCGCAGTG-3,3,PT,PT: proximal tubule,3,WT_3
+9205,TCTATTGAGGCGATAC-3,4,LOH,LOH: loop of henle,3,WT_3
+9206,TCTATTGCAATCCAAC-3,3,PT,PT: proximal tubule,3,WT_3
+9207,TCTATTGTCCCATTAT-3,4,LOH,LOH: loop of henle,3,WT_3
+9208,TCTCATACATCAGTCA-3,4,LOH,LOH: loop of henle,3,WT_3
+9209,TCTCATAGTATCAGTC-3,3,PT,PT: proximal tubule,3,WT_3
+9210,TCTCATATCTTGAGAC-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+9211,TCTGAGAAGAACAATC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9212,TCTGAGAAGTGTTGAA-3,4,LOH,LOH: loop of henle,3,WT_3
+9213,TCTGAGAGTCAGAATA-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9214,TCTGAGATCATTCACT-3,3,PT,PT: proximal tubule,3,WT_3
+9215,TCTGGAACAATCCAAC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9216,TCTGGAACAGCTGTGC-3,3,PT,PT: proximal tubule,3,WT_3
+9217,TCTGGAACATATGGTC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9218,TCTGGAAGTCGAGATG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9219,TCTGGAAGTCGCATAT-3,3,PT,PT: proximal tubule,3,WT_3
+9220,TCTTCGGTCCAGATCA-3,6,CD-PC,CD-PC: collecting duct principal cell,3,WT_3
+9221,TCTTTCCAGGTACTCT-3,6,CD-PC,CD-PC: collecting duct principal cell,3,WT_3
+9222,TGAAAGAAGCCACCTG-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+9223,TGAAAGATCTCGAGTA-3,4,LOH,LOH: loop of henle,3,WT_3
+9224,TGACAACGTACCTACA-3,3,PT,PT: proximal tubule,3,WT_3
+9225,TGACAACTCTATCGCC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9226,TGACAACTCTGCTTGC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9227,TGACGGCGTAGCGCTC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9228,TGACGGCGTTGTCTTT-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+9229,TGACTAGCAGATAATG-3,4,LOH,LOH: loop of henle,3,WT_3
+9230,TGACTAGGTATGAATG-3,4,LOH,LOH: loop of henle,3,WT_3
+9231,TGACTTTAGCTGCAAG-3,3,PT,PT: proximal tubule,3,WT_3
+9232,TGACTTTAGGATGCGT-3,3,PT,PT: proximal tubule,3,WT_3
+9233,TGACTTTTCTCCCTGA-3,3,PT,PT: proximal tubule,3,WT_3
+9234,TGAGAGGCAGCCAATT-3,4,LOH,LOH: loop of henle,3,WT_3
+9235,TGAGAGGGTGAGGGTT-3,10,Fib,Fib: fibroblast,3,WT_3
+9236,TGAGAGGGTGGTACAG-3,3,PT,PT: proximal tubule,3,WT_3
+9237,TGAGCATGTCTTGATG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9238,TGAGCATTCTTCGAGA-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+9239,TGAGCCGAGATATGGT-3,4,LOH,LOH: loop of henle,3,WT_3
+9240,TGAGCCGCATGTAAGA-3,15,NK,NK: natural killer cell,3,WT_3
+9241,TGAGCCGTCGACAGCC-3,3,PT,PT: proximal tubule,3,WT_3
+9242,TGAGGGATCCACTCCA-3,3,PT,PT: proximal tubule,3,WT_3
+9243,TGATTTCCATATGAGA-3,6,CD-PC,CD-PC: collecting duct principal cell,3,WT_3
+9244,TGATTTCGTCTTGTCC-3,3,PT,PT: proximal tubule,3,WT_3
+9245,TGATTTCTCATATCGG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9246,TGCACCTAGTTGCAGG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9247,TGCACCTGTCTAGAGG-3,15,NK,NK: natural killer cell,3,WT_3
+9248,TGCCAAAAGAGCCCAA-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+9249,TGCCAAATCCGCATCT-3,3,PT,PT: proximal tubule,3,WT_3
+9250,TGCCCATGTGCAGTAG-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+9251,TGCCCTAAGCAGGTCA-3,3,PT,PT: proximal tubule,3,WT_3
+9252,TGCCCTAGTGCAGGTA-3,3,PT,PT: proximal tubule,3,WT_3
+9253,TGCGCAGCATATACGC-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+9254,TGCGGGTAGTAGGTGC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9255,TGCGGGTAGTGGGCTA-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9256,TGCGGGTCAATCTGCA-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9257,TGCGGGTTCACTTACT-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+9258,TGCGGGTTCATCACCC-3,3,PT,PT: proximal tubule,3,WT_3
+9259,TGCGTGGAGATATGCA-3,3,PT,PT: proximal tubule,3,WT_3
+9260,TGCGTGGCAGAGTGTG-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+9261,TGCTACCAGCTAGGCA-3,3,PT,PT: proximal tubule,3,WT_3
+9262,TGCTACCAGCTCAACT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9263,TGCTACCAGTTATCGC-3,3,PT,PT: proximal tubule,3,WT_3
+9264,TGCTACCGTTGTTTGG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9265,TGCTGCTAGAAGGTTT-3,3,PT,PT: proximal tubule,3,WT_3
+9266,TGCTGCTTCAACACGT-3,4,LOH,LOH: loop of henle,3,WT_3
+9267,TGCTGCTTCGTAGGTT-3,4,LOH,LOH: loop of henle,3,WT_3
+9268,TGGACGCAGCCAGAAC-3,3,PT,PT: proximal tubule,3,WT_3
+9269,TGGACGCCAATGAAAC-3,3,PT,PT: proximal tubule,3,WT_3
+9270,TGGACGCCAGGACGTA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9271,TGGACGCGTTCTCATT-3,3,PT,PT: proximal tubule,3,WT_3
+9272,TGGACGCTCAGCCTAA-3,15,NK,NK: natural killer cell,3,WT_3
+9273,TGGACGCTCTAACGGT-3,3,PT,PT: proximal tubule,3,WT_3
+9274,TGGACGCTCTGTGCAA-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+9275,TGGCCAGCACAACGCC-3,3,PT,PT: proximal tubule,3,WT_3
+9276,TGGCCAGGTCATCGGC-3,3,PT,PT: proximal tubule,3,WT_3
+9277,TGGCCAGGTCTAAAGA-3,3,PT,PT: proximal tubule,3,WT_3
+9278,TGGCCAGTCGTTGCCT-3,3,PT,PT: proximal tubule,3,WT_3
+9279,TGGCCAGTCGTTTATC-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+9280,TGGCTGGCACAGCCCA-3,3,PT,PT: proximal tubule,3,WT_3
+9281,TGGGAAGAGGCATTGG-3,3,PT,PT: proximal tubule,3,WT_3
+9282,TGGGAAGCAATCGGTT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9283,TGGGAAGTCATCGATG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9284,TGGGCGTAGGTGTTAA-3,3,PT,PT: proximal tubule,3,WT_3
+9285,TGGGCGTAGTAGCGGT-3,3,PT,PT: proximal tubule,3,WT_3
+9286,TGGGCGTAGTTGTAGA-3,3,PT,PT: proximal tubule,3,WT_3
+9287,TGGGCGTCACGCCAGT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9288,TGGGCGTTCCACTCCA-3,3,PT,PT: proximal tubule,3,WT_3
+9289,TGGTTAGTCTGAGGGA-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9290,TGGTTCCAGCACCGCT-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+9291,TGGTTCCCACTCTGTC-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+9292,TGTATTCTCGCAGGCT-3,3,PT,PT: proximal tubule,3,WT_3
+9293,TGTCCCAAGTTCGATC-3,3,PT,PT: proximal tubule,3,WT_3
+9294,TGTCCCACACAAGCCC-3,4,LOH,LOH: loop of henle,3,WT_3
+9295,TGTCCCACACTTAAGC-3,4,LOH,LOH: loop of henle,3,WT_3
+9296,TGTCCCAGTACATGTC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9297,TGTGGTACATGGATGG-3,3,PT,PT: proximal tubule,3,WT_3
+9298,TGTGGTATCGTTGCCT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9299,TGTGGTATCTTCTGGC-3,4,LOH,LOH: loop of henle,3,WT_3
+9300,TGTGTTTAGCAGATCG-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+9301,TGTGTTTCACGGTTTA-3,3,PT,PT: proximal tubule,3,WT_3
+9302,TGTGTTTGTCTTCGTC-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+9303,TGTTCCGAGAGCTTCT-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+9304,TGTTCCGAGAGTACAT-3,3,PT,PT: proximal tubule,3,WT_3
+9305,TGTTCCGAGTCGTTTG-3,4,LOH,LOH: loop of henle,3,WT_3
+9306,TGTTCCGCAGGAACGT-3,6,CD-PC,CD-PC: collecting duct principal cell,3,WT_3
+9307,TGTTCCGTCCAGGGCT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9308,TGTTCCGTCGAACTGT-3,3,PT,PT: proximal tubule,3,WT_3
+9309,TTAACTCAGCACCGCT-3,3,PT,PT: proximal tubule,3,WT_3
+9310,TTAACTCAGTTTAGGA-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+9311,TTAACTCCAAGTCTAC-3,15,NK,NK: natural killer cell,3,WT_3
+9312,TTAGGACAGATACACA-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+9313,TTAGGCACATAGTAAG-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+9314,TTAGGCAGTCGCTTTC-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+9315,TTAGGCAGTTAAGGGC-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9316,TTAGGCATCATCGCTC-3,6,CD-PC,CD-PC: collecting duct principal cell,3,WT_3
+9317,TTAGGCATCTCTTGAT-3,15,NK,NK: natural killer cell,3,WT_3
+9318,TTAGGCATCTGGCGTG-3,3,PT,PT: proximal tubule,3,WT_3
+9319,TTAGGCATCTGGTTCC-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+9320,TTAGTTCAGGGAAACA-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9321,TTAGTTCCAGCTCGAC-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+9322,TTAGTTCTCCTCAACC-3,6,CD-PC,CD-PC: collecting duct principal cell,3,WT_3
+9323,TTAGTTCTCTTGTATC-3,3,PT,PT: proximal tubule,3,WT_3
+9324,TTATGCTAGGAGTTTA-3,3,PT,PT: proximal tubule,3,WT_3
+9325,TTATGCTCACTGTTAG-3,3,PT,PT: proximal tubule,3,WT_3
+9326,TTCCCAGAGGCTAGCA-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9327,TTCCCAGAGTTATCGC-3,3,PT,PT: proximal tubule,3,WT_3
+9328,TTCCCAGGTGCAGACA-3,3,PT,PT: proximal tubule,3,WT_3
+9329,TTCGAAGCAGCGATCC-3,3,PT,PT: proximal tubule,3,WT_3
+9330,TTCGAAGTCCTGCAGG-3,3,PT,PT: proximal tubule,3,WT_3
+9331,TTCGGTCAGAGCCCAA-3,4,LOH,LOH: loop of henle,3,WT_3
+9332,TTCGGTCGTTCCAACA-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+9333,TTCTACAAGGCGCTCT-3,3,PT,PT: proximal tubule,3,WT_3
+9334,TTCTACACAAGTTCTG-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+9335,TTCTACACACAAGTAA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9336,TTCTACATCAGAGCTT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9337,TTCTCAAAGATCTGCT-3,4,LOH,LOH: loop of henle,3,WT_3
+9338,TTCTCAATCATAACCG-3,10,Fib,Fib: fibroblast,3,WT_3
+9339,TTCTCCTAGCTAAGAT-3,3,PT,PT: proximal tubule,3,WT_3
+9340,TTCTCCTCACTGCCAG-3,3,PT,PT: proximal tubule,3,WT_3
+9341,TTCTCCTTCTGAGTGT-3,3,PT,PT: proximal tubule,3,WT_3
+9342,TTCTTAGCAGTTCCCT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9343,TTCTTAGCATTAGCCA-3,3,PT,PT: proximal tubule,3,WT_3
+9344,TTCTTAGGTAAGTTCC-3,3,PT,PT: proximal tubule,3,WT_3
+9345,TTCTTAGGTGGAAAGA-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+9346,TTCTTAGTCCAGAAGG-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+9347,TTGAACGAGGAATCGC-3,4,LOH,LOH: loop of henle,3,WT_3
+9348,TTGAACGTCAGTTTGG-3,3,PT,PT: proximal tubule,3,WT_3
+9349,TTGAACGTCGGCCGAT-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+9350,TTGACTTGTACAGACG-3,3,PT,PT: proximal tubule,3,WT_3
+9351,TTGACTTTCGATGAGG-3,3,PT,PT: proximal tubule,3,WT_3
+9352,TTGCGTCAGCTCCTTC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9353,TTGCGTCGTTACCGAT-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+9354,TTGCGTCTCAGGTAAA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9355,TTGCGTCTCCGAACGC-3,3,PT,PT: proximal tubule,3,WT_3
+9356,TTGCGTCTCGGTTCGG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9357,TTGCGTCTCTGTCTAT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9358,TTGGAACAGCATCATC-3,13,B-lymph,B-lymph: B lymphocyte,3,WT_3
+9359,TTGGCAACACGCATCG-3,3,PT,PT: proximal tubule,3,WT_3
+9360,TTGGCAATCCGAACGC-3,3,PT,PT: proximal tubule,3,WT_3
+9361,TTGGCAATCTGTACGA-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9362,TTTACTGAGCTCCCAG-3,3,PT,PT: proximal tubule,3,WT_3
+9363,TTTACTGCAACGATGG-3,3,PT,PT: proximal tubule,3,WT_3
+9364,TTTACTGTCGGTTCGG-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9365,TTTATGCAGACTTTCG-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9366,TTTATGCAGCGTGAGT-3,4,LOH,LOH: loop of henle,3,WT_3
+9367,TTTATGCTCGAACTGT-3,4,LOH,LOH: loop of henle,3,WT_3
+9368,TTTATGCTCGAATGCT-3,3,PT,PT: proximal tubule,3,WT_3
+9369,TTTCCTCAGCGACGTA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9370,TTTCCTCAGTCGTACT-3,11,Marco,Macro: macrophage,3,WT_3
+9371,TTTCCTCCACTTAACG-3,10,Fib,Fib: fibroblast,3,WT_3
+9372,TTTCCTCCAGCCAATT-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9373,TTTGCGCAGCCCAATT-3,3,PT,PT: proximal tubule,3,WT_3
+9374,TTTGCGCAGCTAGCCC-3,4,LOH,LOH: loop of henle,3,WT_3
+9375,TTTGCGCCACTAGTAC-3,3,PT,PT: proximal tubule,3,WT_3
+9376,TTTGCGCGTAAGTTCC-3,3,PT,PT: proximal tubule,3,WT_3
+9377,TTTGCGCGTTCCACGG-3,3,PT,PT: proximal tubule,3,WT_3
+9378,TTTGCGCTCGCATGGC-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9379,TTTGCGCTCGGCTACG-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+9380,TTTGGTTAGGAATGGA-3,5,DCT,DCT: distal convoluted tubule,3,WT_3
+9381,TTTGGTTGTTACGCGC-3,7,CD-IC,CD-IC: CD intercalated cell,3,WT_3
+9382,TTTGTCAAGCGTCTAT-3,1,Endo,"Endo: endothelial,  vascular and descending loop of Henle",3,WT_3
+9383,TTTGTCACAATGCCAT-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
+9384,TTTGTCAGTCATGCCG-3,4,LOH,LOH: loop of henle,3,WT_3
+9385,TTTGTCAGTTACGTCA-3,14,T-lymph,T-lymph: T lymphocyte,3,WT_3
